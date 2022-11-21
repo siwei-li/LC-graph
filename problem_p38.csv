@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/minimum-interval-to-include-each-query/,1851. Minimum Interval to Include Each Query,47.8%,Hard
+1,https://leetcode.com/problems/distinct-numbers-in-each-subarray/,1852. Distinct Numbers in Each Subarray,71.0%,Medium
+2,https://leetcode.com/problems/convert-date-format/,1853. Convert Date Format,87.6%,Easy
+3,https://leetcode.com/problems/maximum-population-year/,1854. Maximum Population Year,59.9%,Easy
+4,https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/,1855. Maximum Distance Between a Pair of Values,52.7%,Medium
+5,https://leetcode.com/problems/maximum-subarray-min-product/,1856. Maximum Subarray Min-Product,37.8%,Medium
+6,https://leetcode.com/problems/largest-color-value-in-a-directed-graph/,1857. Largest Color Value in a Directed Graph,40.7%,Hard
+7,https://leetcode.com/problems/longest-word-with-all-prefixes/,1858. Longest Word With All Prefixes,66.6%,Medium
+8,https://leetcode.com/problems/sorting-the-sentence/,1859. Sorting the Sentence,84.4%,Easy
+9,https://leetcode.com/problems/incremental-memory-leak/,1860. Incremental Memory Leak,71.8%,Medium
+10,https://leetcode.com/problems/rotating-the-box/,1861. Rotating the Box,64.7%,Medium
+11,https://leetcode.com/problems/sum-of-floored-pairs/,1862. Sum of Floored Pairs,28.2%,Hard
+12,https://leetcode.com/problems/sum-of-all-subset-xor-totals/,1863. Sum of All Subset XOR Totals,79.0%,Easy
+13,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/,1864. Minimum Number of Swaps to Make the Binary String Alternating,42.5%,Medium
+14,https://leetcode.com/problems/finding-pairs-with-a-certain-sum/,1865. Finding Pairs With a Certain Sum,50.4%,Medium
+15,https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/,1866. Number of Ways to Rearrange Sticks With K Sticks Visible,55.8%,Hard
+16,https://leetcode.com/problems/orders-with-maximum-quantity-above-average/,1867. Orders With Maximum Quantity Above Average,75.9%,Medium
+17,https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/,1868. Product of Two Run-Length Encoded Arrays,57.8%,Medium
+18,https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/,1869. Longer Contiguous Segments of Ones than Zeros,60.3%,Easy
+19,https://leetcode.com/problems/minimum-speed-to-arrive-on-time/,1870. Minimum Speed to Arrive on Time,37.4%,Medium
+20,https://leetcode.com/problems/jump-game-vii/,1871. Jump Game VII,25.1%,Medium
+21,https://leetcode.com/problems/stone-game-viii/,1872. Stone Game VIII,52.4%,Hard
+22,https://leetcode.com/problems/calculate-special-bonus/,1873. Calculate Special Bonus,63.8%,Easy
+23,https://leetcode.com/problems/minimize-product-sum-of-two-arrays/,1874. Minimize Product Sum of Two Arrays,90.4%,Medium
+24,https://leetcode.com/problems/group-employees-of-the-same-salary/,1875. Group Employees of the Same Salary,75.6%,Medium
+25,https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/,1876. Substrings of Size Three with Distinct Characters,70.3%,Easy
+26,https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/,1877. Minimize Maximum Pair Sum in Array,80.3%,Medium
+27,https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/,1878. Get Biggest Three Rhombus Sums in a Grid,46.4%,Medium
+28,https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/,1879. Minimum XOR Sum of Two Arrays,44.8%,Hard
+29,https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/,1880. Check if Word Equals Summation of Two Words,73.7%,Easy
+30,https://leetcode.com/problems/maximum-value-after-insertion/,1881. Maximum Value after Insertion,36.6%,Medium
+31,https://leetcode.com/problems/process-tasks-using-servers/,1882. Process Tasks Using Servers,39.6%,Medium
+32,https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/,1883. Minimum Skips to Arrive at Meeting On Time,38.5%,Hard
+33,https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/,1884. Egg Drop With 2 Eggs and N Floors,70.2%,Medium
+34,https://leetcode.com/problems/count-pairs-in-two-arrays/,1885. Count Pairs in Two Arrays,59.4%,Medium
+35,https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/,1886. Determine Whether Matrix Can Be Obtained By Rotation,55.4%,Easy
+36,https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/,1887. Reduction Operations to Make the Array Elements Equal,62.4%,Medium
+37,https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/,1888. Minimum Number of Flips to Make the Binary String Alternating,38.1%,Medium
+38,https://leetcode.com/problems/minimum-space-wasted-from-packaging/,1889. Minimum Space Wasted From Packaging,30.7%,Hard
+39,https://leetcode.com/problems/the-latest-login-in-2020/,1890. The Latest Login in 2020,81.7%,Easy
+40,https://leetcode.com/problems/cutting-ribbons/,1891. Cutting Ribbons,48.2%,Medium
+41,https://leetcode.com/problems/page-recommendations-ii/,1892. Page Recommendations II,44.7%,Hard
+42,https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/,1893. Check if All the Integers in a Range Are Covered,50.9%,Easy
+43,https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/,1894. Find the Student that Will Replace the Chalk,43.8%,Medium
+44,https://leetcode.com/problems/largest-magic-square/,1895. Largest Magic Square,51.9%,Medium
+45,https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/,1896. Minimum Cost to Change the Final Value of Expression,54.8%,Hard
+46,https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/,1897. Redistribute Characters to Make All Strings Equal,59.9%,Easy
+47,https://leetcode.com/problems/maximum-number-of-removable-characters/,1898. Maximum Number of Removable Characters,39.3%,Medium
+48,https://leetcode.com/problems/merge-triplets-to-form-target-triplet/,1899. Merge Triplets to Form Target Triplet,64.4%,Medium
+49,https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/,1900. The Earliest and Latest Rounds Where Players Compete,51.8%,Hard

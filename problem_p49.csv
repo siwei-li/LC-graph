@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/longest-nice-subarray/,2401. Longest Nice Subarray,48.0%,Medium
+1,https://leetcode.com/problems/meeting-rooms-iii/,2402. Meeting Rooms III,33.2%,Hard
+2,https://leetcode.com/problems/minimum-time-to-kill-all-monsters/,2403. Minimum Time to Kill All Monsters,51.9%,Hard
+3,https://leetcode.com/problems/most-frequent-even-element/,2404. Most Frequent Even Element,51.5%,Easy
+4,https://leetcode.com/problems/optimal-partition-of-string/,2405. Optimal Partition of String,74.5%,Medium
+5,https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/,2406. Divide Intervals Into Minimum Number of Groups,45.4%,Medium
+6,https://leetcode.com/problems/longest-increasing-subsequence-ii/,2407. Longest Increasing Subsequence II,20.9%,Hard
+7,https://leetcode.com/problems/design-sql/,2408. Design SQL,84.2%,Medium
+8,https://leetcode.com/problems/count-days-spent-together/,2409. Count Days Spent Together,42.7%,Easy
+9,https://leetcode.com/problems/maximum-matching-of-players-with-trainers/,2410. Maximum Matching of Players With Trainers,59.8%,Medium
+10,https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/,2411. Smallest Subarrays With Maximum Bitwise OR,40.2%,Medium
+11,https://leetcode.com/problems/minimum-money-required-before-transactions/,2412. Minimum Money Required Before Transactions,39.1%,Hard
+12,https://leetcode.com/problems/smallest-even-multiple/,2413. Smallest Even Multiple,87.9%,Easy
+13,https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/,2414. Length of the Longest Alphabetical Continuous Substring,55.8%,Medium
+14,https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/,2415. Reverse Odd Levels of Binary Tree,75.7%,Medium
+15,https://leetcode.com/problems/sum-of-prefix-scores-of-strings/,2416. Sum of Prefix Scores of Strings,42.5%,Hard
+16,https://leetcode.com/problems/closest-fair-integer/,2417. Closest Fair Integer,44.7%,Medium
+17,https://leetcode.com/problems/sort-the-people/,2418. Sort the People,82.1%,Easy
+18,https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/,2419. Longest Subarray With Maximum Bitwise AND,47.7%,Medium
+19,https://leetcode.com/problems/find-all-good-indices/,2420. Find All Good Indices,37.2%,Medium
+20,https://leetcode.com/problems/number-of-good-paths/,2421. Number of Good Paths,39.7%,Hard
+21,https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/,2422. Merge Operations to Turn Array Into a Palindrome,71.7%,Medium
+22,https://leetcode.com/problems/remove-letter-to-equalize-frequency/,2423. Remove Letter To Equalize Frequency,19.2%,Easy
+23,https://leetcode.com/problems/longest-uploaded-prefix/,2424. Longest Uploaded Prefix,53.7%,Medium
+24,https://leetcode.com/problems/bitwise-xor-of-all-pairings/,2425. Bitwise XOR of All Pairings,58.6%,Medium
+25,https://leetcode.com/problems/number-of-pairs-satisfying-inequality/,2426. Number of Pairs Satisfying Inequality,42.2%,Hard
+26,https://leetcode.com/problems/number-of-common-factors/,2427. Number of Common Factors,80.1%,Easy
+27,https://leetcode.com/problems/maximum-sum-of-an-hourglass/,2428. Maximum Sum of an Hourglass,73.9%,Medium
+28,https://leetcode.com/problems/minimize-xor/,2429. Minimize XOR,41.8%,Medium
+29,https://leetcode.com/problems/maximum-deletions-on-a-string/,2430. Maximum Deletions on a String,32.2%,Hard
+30,https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/,2431. Maximize Total Tastiness of Purchased Fruits,73.2%,Medium
+31,https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/,2432. The Employee That Worked on the Longest Task,49.0%,Easy
+32,https://leetcode.com/problems/find-the-original-array-of-prefix-xor/,2433. Find The Original Array of Prefix Xor,85.8%,Medium
+33,https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/,2434. Using a Robot to Print the Lexicographically Smallest String,38.1%,Medium
+34,https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/,2435. Paths in Matrix Whose Sum Is Divisible by K,41.0%,Hard
+35,https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one/,2436. Minimum Split Into Subarrays With GCD Greater Than One,80.2%,Medium
+36,https://leetcode.com/problems/number-of-valid-clock-times/,2437. Number of Valid Clock Times,41.9%,Easy
+37,https://leetcode.com/problems/range-product-queries-of-powers/,2438. Range Product Queries of Powers,38.4%,Medium
+38,https://leetcode.com/problems/minimize-maximum-of-array/,2439. Minimize Maximum of Array,33.1%,Medium
+39,https://leetcode.com/problems/create-components-with-same-value/,2440. Create Components With Same Value,54.1%,Hard
+40,https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/,2441. Largest Positive Integer That Exists With Its Negative,67.8%,Easy
+41,https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/,2442. Count Number of Distinct Integers After Reverse Operations,78.8%,Medium
+42,https://leetcode.com/problems/sum-of-number-and-its-reverse/,2443. Sum of Number and Its Reverse,45.3%,Medium
+43,https://leetcode.com/problems/count-subarrays-with-fixed-bounds/,2444. Count Subarrays With Fixed Bounds,43.1%,Hard
+44,https://leetcode.com/problems/number-of-nodes-with-value-one/,2445. Number of Nodes With Value One,77.0%,Medium
+45,https://leetcode.com/problems/determine-if-two-events-have-conflict/,2446. Determine if Two Events Have Conflict,49.3%,Easy
+46,https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/,2447. Number of Subarrays With GCD Equal to K,48.1%,Medium
+47,https://leetcode.com/problems/minimum-cost-to-make-array-equal/,2448. Minimum Cost to Make Array Equal,34.5%,Hard
+48,https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/,2449. Minimum Number of Operations to Make Arrays Similar,64.8%,Hard
+49,https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/,2450. Number of Distinct Binary Strings After Applying Operations,73.7%,Medium

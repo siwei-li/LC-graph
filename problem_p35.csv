@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/average-waiting-time/,1701. Average Waiting Time,62.4%,Medium
+1,https://leetcode.com/problems/maximum-binary-string-after-change/,1702. Maximum Binary String After Change,46.1%,Medium
+2,https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/,1703. Minimum Adjacent Swaps for K Consecutive Ones,42.4%,Hard
+3,https://leetcode.com/problems/determine-if-string-halves-are-alike/,1704. Determine if String Halves Are Alike,77.4%,Easy
+4,https://leetcode.com/problems/maximum-number-of-eaten-apples/,1705. Maximum Number of Eaten Apples,38.1%,Medium
+5,https://leetcode.com/problems/where-will-the-ball-fall/,1706. Where Will the Ball Fall,71.6%,Medium
+6,https://leetcode.com/problems/maximum-xor-with-an-element-from-array/,1707. Maximum XOR With an Element From Array,44.3%,Hard
+7,https://leetcode.com/problems/largest-subarray-length-k/,1708. Largest Subarray Length K,63.6%,Easy
+8,https://leetcode.com/problems/biggest-window-between-visits/,1709. Biggest Window Between Visits,77.3%,Medium
+9,https://leetcode.com/problems/maximum-units-on-a-truck/,1710. Maximum Units on a Truck,73.9%,Easy
+10,https://leetcode.com/problems/count-good-meals/,1711. Count Good Meals,29.1%,Medium
+11,https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/,1712. Ways to Split Array Into Three Subarrays,32.5%,Medium
+12,https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/,1713. Minimum Operations to Make a Subsequence,49.1%,Hard
+13,https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/,1714. Sum Of Special Evenly-Spaced Elements In Array,49.4%,Hard
+14,https://leetcode.com/problems/count-apples-and-oranges/,1715. Count Apples and Oranges,77.4%,Medium
+15,https://leetcode.com/problems/calculate-money-in-leetcode-bank/,1716. Calculate Money in Leetcode Bank,65.2%,Easy
+16,https://leetcode.com/problems/maximum-score-from-removing-substrings/,1717. Maximum Score From Removing Substrings,46.1%,Medium
+17,https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/,1718. Construct the Lexicographically Largest Valid Sequence,51.6%,Medium
+18,https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/,1719. Number Of Ways To Reconstruct A Tree,43.0%,Hard
+19,https://leetcode.com/problems/decode-xored-array/,1720. Decode XORed Array,85.9%,Easy
+20,https://leetcode.com/problems/swapping-nodes-in-a-linked-list/,1721. Swapping Nodes in a Linked List,67.7%,Medium
+21,https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/,1722. Minimize Hamming Distance After Swap Operations,48.7%,Medium
+22,https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/,1723. Find Minimum Time to Finish All Jobs,42.7%,Hard
+23,https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/,1724. Checking Existence of Edge Length Limited Paths II,51.1%,Hard
+24,https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/,1725. Number Of Rectangles That Can Form The Largest Square,78.7%,Easy
+25,https://leetcode.com/problems/tuple-with-same-product/,1726. Tuple with Same Product,60.8%,Medium
+26,https://leetcode.com/problems/largest-submatrix-with-rearrangements/,1727. Largest Submatrix With Rearrangements,61.0%,Medium
+27,https://leetcode.com/problems/cat-and-mouse-ii/,1728. Cat and Mouse II,40.3%,Hard
+28,https://leetcode.com/problems/find-followers-count/,1729. Find Followers Count,71.4%,Easy
+29,https://leetcode.com/problems/shortest-path-to-get-food/,1730. Shortest Path to Get Food,54.1%,Medium
+30,https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/,1731. The Number of Employees Which Report to Each Employee,50.8%,Easy
+31,https://leetcode.com/problems/find-the-highest-altitude/,1732. Find the Highest Altitude,78.7%,Easy
+32,https://leetcode.com/problems/minimum-number-of-people-to-teach/,1733. Minimum Number of People to Teach,41.8%,Medium
+33,https://leetcode.com/problems/decode-xored-permutation/,1734. Decode XORed Permutation,62.4%,Medium
+34,https://leetcode.com/problems/count-ways-to-make-array-with-product/,1735. Count Ways to Make Array With Product,50.7%,Hard
+35,https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/,1736. Latest Time by Replacing Hidden Digits,42.2%,Easy
+36,https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/,1737. Change Minimum Characters to Satisfy One of Three Conditions,35.3%,Medium
+37,https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/,1738. Find Kth Largest XOR Coordinate Value,61.4%,Medium
+38,https://leetcode.com/problems/building-boxes/,1739. Building Boxes,51.9%,Hard
+39,https://leetcode.com/problems/find-distance-in-a-binary-tree/,1740. Find Distance in a Binary Tree,68.8%,Medium
+40,https://leetcode.com/problems/find-total-time-spent-by-each-employee/,1741. Find Total Time Spent by Each Employee,91.7%,Easy
+41,https://leetcode.com/problems/maximum-number-of-balls-in-a-box/,1742. Maximum Number of Balls in a Box,73.9%,Easy
+42,https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/,1743. Restore the Array From Adjacent Pairs,68.7%,Medium
+43,https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/,1744. Can You Eat Your Favorite Candy on Your Favorite Day?,32.9%,Medium
+44,https://leetcode.com/problems/palindrome-partitioning-iv/,1745. Palindrome Partitioning IV,46.0%,Hard
+45,https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/,1746. Maximum Subarray Sum After One Operation,62.3%,Medium
+46,https://leetcode.com/problems/leetflex-banned-accounts/,1747. Leetflex Banned Accounts,68.3%,Medium
+47,https://leetcode.com/problems/sum-of-unique-elements/,1748. Sum of Unique Elements,75.7%,Easy
+48,https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/,1749. Maximum Absolute Sum of Any Subarray,58.3%,Medium
+49,https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/,1750. Minimum Length of String After Deleting Similar Ends,43.6%,Medium

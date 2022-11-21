@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/sort-characters-by-frequency/,451. Sort Characters By Frequency,68.6%,Medium
+1,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,452. Minimum Number of Arrows to Burst Balloons,53.2%,Medium
+2,https://leetcode.com/problems/minimum-moves-to-equal-array-elements/,453. Minimum Moves to Equal Array Elements,55.7%,Medium
+3,https://leetcode.com/problems/4sum-ii/,454. 4Sum II,57.3%,Medium
+4,https://leetcode.com/problems/assign-cookies/,455. Assign Cookies,50.5%,Easy
+5,https://leetcode.com/problems/132-pattern/,456. 132 Pattern,32.5%,Medium
+6,https://leetcode.com/problems/circular-array-loop/,457. Circular Array Loop,32.3%,Medium
+7,https://leetcode.com/problems/poor-pigs/,458. Poor Pigs,64.4%,Hard
+8,https://leetcode.com/problems/repeated-substring-pattern/,459. Repeated Substring Pattern,43.7%,Easy
+9,https://leetcode.com/problems/lfu-cache/,460. LFU Cache,40.4%,Hard
+10,https://leetcode.com/problems/hamming-distance/,461. Hamming Distance,74.8%,Easy
+11,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/,462. Minimum Moves to Equal Array Elements II,60.2%,Medium
+12,https://leetcode.com/problems/island-perimeter/,463. Island Perimeter,69.5%,Easy
+13,https://leetcode.com/problems/can-i-win/,464. Can I Win,29.8%,Medium
+14,https://leetcode.com/problems/optimal-account-balancing/,465. Optimal Account Balancing,49.3%,Hard
+15,https://leetcode.com/problems/count-the-repetitions/,466. Count The Repetitions,29.3%,Hard
+16,https://leetcode.com/problems/unique-substrings-in-wraparound-string/,467. Unique Substrings in Wraparound String,38.3%,Medium
+17,https://leetcode.com/problems/validate-ip-address/,468. Validate IP Address,26.5%,Medium
+18,https://leetcode.com/problems/convex-polygon/,469. Convex Polygon,38.5%,Medium
+19,https://leetcode.com/problems/implement-rand10-using-rand7/,470. Implement Rand10() Using Rand7(),46.7%,Medium
+20,https://leetcode.com/problems/encode-string-with-shortest-length/,471. Encode String with Shortest Length,50.7%,Hard
+21,https://leetcode.com/problems/concatenated-words/,472. Concatenated Words,45.8%,Hard
+22,https://leetcode.com/problems/matchsticks-to-square/,473. Matchsticks to Square,40.4%,Medium
+23,https://leetcode.com/problems/ones-and-zeroes/,474. Ones and Zeroes,46.7%,Medium
+24,https://leetcode.com/problems/heaters/,475. Heaters,36.1%,Medium
+25,https://leetcode.com/problems/number-complement/,476. Number Complement,67.2%,Easy
+26,https://leetcode.com/problems/total-hamming-distance/,477. Total Hamming Distance,52.1%,Medium
+27,https://leetcode.com/problems/generate-random-point-in-a-circle/,478. Generate Random Point in a Circle,39.6%,Medium
+28,https://leetcode.com/problems/largest-palindrome-product/,479. Largest Palindrome Product,31.7%,Hard
+29,https://leetcode.com/problems/sliding-window-median/,480. Sliding Window Median,41.4%,Hard
+30,https://leetcode.com/problems/magical-string/,481. Magical String,50.5%,Medium
+31,https://leetcode.com/problems/license-key-formatting/,482. License Key Formatting,43.2%,Easy
+32,https://leetcode.com/problems/smallest-good-base/,483. Smallest Good Base,38.4%,Hard
+33,https://leetcode.com/problems/find-permutation/,484. Find Permutation,67.0%,Medium
+34,https://leetcode.com/problems/max-consecutive-ones/,485. Max Consecutive Ones,56.1%,Easy
+35,https://leetcode.com/problems/predict-the-winner/,486. Predict the Winner,50.9%,Medium
+36,https://leetcode.com/problems/max-consecutive-ones-ii/,487. Max Consecutive Ones II,49.6%,Medium
+37,https://leetcode.com/problems/zuma-game/,488. Zuma Game,34.6%,Hard
+38,https://leetcode.com/problems/robot-room-cleaner/,489. Robot Room Cleaner,76.6%,Hard
+39,https://leetcode.com/problems/the-maze/,490. The Maze,55.4%,Medium
+40,https://leetcode.com/problems/increasing-subsequences/,491. Increasing Subsequences,52.1%,Medium
+41,https://leetcode.com/problems/construct-the-rectangle/,492. Construct the Rectangle,53.7%,Easy
+42,https://leetcode.com/problems/reverse-pairs/,493. Reverse Pairs,30.9%,Hard
+43,https://leetcode.com/problems/target-sum/,494. Target Sum,45.6%,Medium
+44,https://leetcode.com/problems/teemo-attacking/,495. Teemo Attacking,57.0%,Easy
+45,https://leetcode.com/problems/next-greater-element-i/,496. Next Greater Element I,71.4%,Easy
+46,https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/,497. Random Point in Non-overlapping Rectangles,39.3%,Medium
+47,https://leetcode.com/problems/diagonal-traverse/,498. Diagonal Traverse,58.1%,Medium
+48,https://leetcode.com/problems/the-maze-iii/,499. The Maze III,47.0%,Hard
+49,https://leetcode.com/problems/keyboard-row/,500. Keyboard Row,69.2%,Easy

@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/rearrange-words-in-a-sentence/,1451. Rearrange Words in a Sentence,62.6%,Medium
+1,https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/,1452. People Whose List of Favorite Companies Is Not a Subset of Another List,56.8%,Medium
+2,https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/,1453. Maximum Number of Darts Inside of a Circular Dartboard,36.9%,Hard
+3,https://leetcode.com/problems/active-users/,1454. Active Users,38.4%,Medium
+4,https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/,1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence,64.2%,Easy
+5,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/,1456. Maximum Number of Vowels in a Substring of Given Length,58.0%,Medium
+6,https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/,1457. Pseudo-Palindromic Paths in a Binary Tree,68.0%,Medium
+7,https://leetcode.com/problems/max-dot-product-of-two-subsequences/,1458. Max Dot Product of Two Subsequences,46.3%,Hard
+8,https://leetcode.com/problems/rectangles-area/,1459. Rectangles Area,69.9%,Medium
+9,https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/,1460. Make Two Arrays Equal by Reversing Subarrays,72.2%,Easy
+10,https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/,1461. Check If a String Contains All Binary Codes of Size K,56.8%,Medium
+11,https://leetcode.com/problems/course-schedule-iv/,1462. Course Schedule IV,48.9%,Medium
+12,https://leetcode.com/problems/cherry-pickup-ii/,1463. Cherry Pickup II,70.1%,Hard
+13,https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/,1464. Maximum Product of Two Elements in an Array,79.3%,Easy
+14,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/,1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,40.9%,Medium
+15,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/,1466. Reorder Routes to Make All Paths Lead to the City Zero,61.7%,Medium
+16,https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/,1467. Probability of a Two Boxes Having The Same Number of Distinct Balls,61.1%,Hard
+17,https://leetcode.com/problems/calculate-salaries/,1468. Calculate Salaries,81.9%,Medium
+18,https://leetcode.com/problems/find-all-the-lonely-nodes/,1469. Find All The Lonely Nodes,81.8%,Easy
+19,https://leetcode.com/problems/shuffle-the-array/,1470. Shuffle the Array,88.5%,Easy
+20,https://leetcode.com/problems/the-k-strongest-values-in-an-array/,1471. The k Strongest Values in an Array,60.2%,Medium
+21,https://leetcode.com/problems/design-browser-history/,1472. Design Browser History,76.1%,Medium
+22,https://leetcode.com/problems/paint-house-iii/,1473. Paint House III,61.9%,Hard
+23,https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/,1474. Delete N Nodes After M Nodes of a Linked List,73.6%,Easy
+24,https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/,1475. Final Prices With a Special Discount in a Shop,75.5%,Easy
+25,https://leetcode.com/problems/subrectangle-queries/,1476. Subrectangle Queries,88.3%,Medium
+26,https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/,1477. Find Two Non-overlapping Sub-arrays Each With Target Sum,37.0%,Medium
+27,https://leetcode.com/problems/allocate-mailboxes/,1478. Allocate Mailboxes,55.6%,Hard
+28,https://leetcode.com/problems/sales-by-day-of-the-week/,1479. Sales by Day of the Week,82.1%,Hard
+29,https://leetcode.com/problems/running-sum-of-1d-array/,1480. Running Sum of 1d Array,89.3%,Easy
+30,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/,1481. Least Number of Unique Integers after K Removals,56.9%,Medium
+31,https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/,1482. Minimum Number of Days to Make m Bouquets,55.7%,Medium
+32,https://leetcode.com/problems/kth-ancestor-of-a-tree-node/,1483. Kth Ancestor of a Tree Node,33.8%,Hard
+33,https://leetcode.com/problems/group-sold-products-by-the-date/,1484. Group Sold Products By The Date,83.6%,Easy
+34,https://leetcode.com/problems/clone-binary-tree-with-random-pointer/,1485. Clone Binary Tree With Random Pointer,79.4%,Medium
+35,https://leetcode.com/problems/xor-operation-in-an-array/,1486. XOR Operation in an Array,84.2%,Easy
+36,https://leetcode.com/problems/making-file-names-unique/,1487. Making File Names Unique,35.9%,Medium
+37,https://leetcode.com/problems/avoid-flood-in-the-city/,1488. Avoid Flood in The City,26.1%,Medium
+38,https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/,1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree,52.6%,Hard
+39,https://leetcode.com/problems/clone-n-ary-tree/,1490. Clone N-ary Tree,83.6%,Medium
+40,https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/,1491. Average Salary Excluding the Minimum and Maximum Salary,62.7%,Easy
+41,https://leetcode.com/problems/the-kth-factor-of-n/,1492. The kth Factor of n,62.4%,Medium
+42,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/,1493. Longest Subarray of 1's After Deleting One Element,60.2%,Medium
+43,https://leetcode.com/problems/parallel-courses-ii/,1494. Parallel Courses II,31.1%,Hard
+44,https://leetcode.com/problems/friendly-movies-streamed-last-month/,1495. Friendly Movies Streamed Last Month,49.7%,Easy
+45,https://leetcode.com/problems/path-crossing/,1496. Path Crossing,55.8%,Easy
+46,https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/,1497. Check If Array Pairs Are Divisible by k,39.7%,Medium
+47,https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/,1498. Number of Subsequences That Satisfy the Given Sum Condition,38.1%,Medium
+48,https://leetcode.com/problems/max-value-of-equation/,1499. Max Value of Equation,46.4%,Hard
+49,https://leetcode.com/problems/design-a-file-sharing-system/,1500. Design a File Sharing System,44.8%,Medium

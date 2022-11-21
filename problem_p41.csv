@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/,2001. Number of Pairs of Interchangeable Rectangles,45.1%,Medium
+1,https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/,2002. Maximum Product of the Length of Two Palindromic Subsequences,53.4%,Medium
+2,https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/,2003. Smallest Missing Genetic Value in Each Subtree,44.3%,Hard
+3,https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company/,2004. The Number of Seniors and Juniors to Join the Company,39.0%,Hard
+4,https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree/,2005. Subtree Removal Game with Fibonacci Tree,62.8%,Hard
+5,https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/,2006. Count Number of Pairs With Absolute Difference K,82.3%,Easy
+6,https://leetcode.com/problems/find-original-array-from-doubled-array/,2007. Find Original Array From Doubled Array,40.9%,Medium
+7,https://leetcode.com/problems/maximum-earnings-from-taxi/,2008. Maximum Earnings From Taxi,43.1%,Medium
+8,https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/,2009. Minimum Number of Operations to Make Array Continuous,45.7%,Hard
+9,https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company-ii/,2010. The Number of Seniors and Juniors to Join the Company II,57.8%,Hard
+10,https://leetcode.com/problems/final-value-of-variable-after-performing-operations/,2011. Final Value of Variable After Performing Operations,88.8%,Easy
+11,https://leetcode.com/problems/sum-of-beauty-in-the-array/,2012. Sum of Beauty in the Array,46.7%,Medium
+12,https://leetcode.com/problems/detect-squares/,2013. Detect Squares,50.1%,Medium
+13,https://leetcode.com/problems/longest-subsequence-repeated-k-times/,2014. Longest Subsequence Repeated k Times,55.6%,Hard
+14,https://leetcode.com/problems/average-height-of-buildings-in-each-segment/,2015. Average Height of Buildings in Each Segment,58.2%,Medium
+15,https://leetcode.com/problems/maximum-difference-between-increasing-elements/,2016. Maximum Difference Between Increasing Elements,53.5%,Easy
+16,https://leetcode.com/problems/grid-game/,2017. Grid Game,43.0%,Medium
+17,https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/,2018. Check if Word Can Be Placed In Crossword,49.4%,Medium
+18,https://leetcode.com/problems/the-score-of-students-solving-math-expression/,2019. The Score of Students Solving Math Expression,33.8%,Hard
+19,https://leetcode.com/problems/number-of-accounts-that-did-not-stream/,2020. Number of Accounts That Did Not Stream,73.6%,Medium
+20,https://leetcode.com/problems/brightest-position-on-street/,2021. Brightest Position on Street,62.7%,Medium
+21,https://leetcode.com/problems/convert-1d-array-into-2d-array/,2022. Convert 1D Array Into 2D Array,58.3%,Easy
+22,https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/,2023. Number of Pairs of Strings With Concatenation Equal to Target,72.9%,Medium
+23,https://leetcode.com/problems/maximize-the-confusion-of-an-exam/,2024. Maximize the Confusion of an Exam,59.8%,Medium
+24,https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/,2025. Maximum Number of Ways to Partition an Array,32.1%,Hard
+25,https://leetcode.com/problems/low-quality-problems/,2026. Low-Quality Problems,85.5%,Easy
+26,https://leetcode.com/problems/minimum-moves-to-convert-string/,2027. Minimum Moves to Convert String,53.7%,Easy
+27,https://leetcode.com/problems/find-missing-observations/,2028. Find Missing Observations,43.9%,Medium
+28,https://leetcode.com/problems/stone-game-ix/,2029. Stone Game IX,26.4%,Medium
+29,https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/,2030. Smallest K-Length Subsequence With Occurrences of a Letter,38.7%,Hard
+30,https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/,2031. Count Subarrays With More Ones Than Zeros,52.8%,Medium
+31,https://leetcode.com/problems/two-out-of-three/,2032. Two Out of Three,72.6%,Easy
+32,https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/,2033. Minimum Operations to Make a Uni-Value Grid,52.4%,Medium
+33,https://leetcode.com/problems/stock-price-fluctuation/,2034. Stock Price Fluctuation,49.3%,Medium
+34,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/,2035. Partition Array Into Two Arrays to Minimize Sum Difference,18.3%,Hard
+35,https://leetcode.com/problems/maximum-alternating-subarray-sum/,2036. Maximum Alternating Subarray Sum,40.8%,Medium
+36,https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/,2037. Minimum Number of Moves to Seat Everyone,82.0%,Easy
+37,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/,2038. Remove Colored Pieces if Both Neighbors are the Same Color,58.1%,Medium
+38,https://leetcode.com/problems/the-time-when-the-network-becomes-idle/,2039. The Time When the Network Becomes Idle,50.7%,Medium
+39,https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/,2040. Kth Smallest Product of Two Sorted Arrays,29.1%,Hard
+40,https://leetcode.com/problems/accepted-candidates-from-the-interviews/,2041. Accepted Candidates From the Interviews,79.4%,Medium
+41,https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/,2042. Check if Numbers Are Ascending in a Sentence,66.1%,Easy
+42,https://leetcode.com/problems/simple-bank-system/,2043. Simple Bank System,65.7%,Medium
+43,https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/,2044. Count Number of Maximum Bitwise-OR Subsets,74.8%,Medium
+44,https://leetcode.com/problems/second-minimum-time-to-reach-destination/,2045. Second Minimum Time to Reach Destination,38.8%,Hard
+45,https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/,2046. Sort Linked List Already Sorted Using Absolute Values,68.9%,Medium
+46,https://leetcode.com/problems/number-of-valid-words-in-a-sentence/,2047. Number of Valid Words in a Sentence,29.5%,Easy
+47,https://leetcode.com/problems/next-greater-numerically-balanced-number/,2048. Next Greater Numerically Balanced Number,47.1%,Medium
+48,https://leetcode.com/problems/count-nodes-with-the-highest-score/,2049. Count Nodes With the Highest Score,47.0%,Medium
+49,https://leetcode.com/problems/parallel-courses-iii/,2050. Parallel Courses III,59.5%,Hard

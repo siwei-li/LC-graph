@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/number-of-flowers-in-full-bloom/,2251. Number of Flowers in Full Bloom,51.9%,Hard
+1,https://leetcode.com/problems/dynamic-pivoting-of-a-table/,2252. Dynamic Pivoting of a Table,56.1%,Hard
+2,https://leetcode.com/problems/dynamic-unpivoting-of-a-table/,2253. Dynamic Unpivoting of a Table,66.8%,Hard
+3,https://leetcode.com/problems/design-video-sharing-platform/,2254. Design Video Sharing Platform,64.4%,Hard
+4,https://leetcode.com/problems/count-prefixes-of-a-given-string/,2255. Count Prefixes of a Given String,73.3%,Easy
+5,https://leetcode.com/problems/minimum-average-difference/,2256. Minimum Average Difference,35.9%,Medium
+6,https://leetcode.com/problems/count-unguarded-cells-in-the-grid/,2257. Count Unguarded Cells in the Grid,52.2%,Medium
+7,https://leetcode.com/problems/escape-the-spreading-fire/,2258. Escape the Spreading Fire,34.7%,Hard
+8,https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/,2259. Remove Digit From Number to Maximize Result,47.0%,Easy
+9,https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/,2260. Minimum Consecutive Cards to Pick Up,51.7%,Medium
+10,https://leetcode.com/problems/k-divisible-elements-subarrays/,2261. K Divisible Elements Subarrays,47.6%,Medium
+11,https://leetcode.com/problems/total-appeal-of-a-string/,2262. Total Appeal of A String,58.3%,Hard
+12,https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/,2263. Make Array Non-decreasing or Non-increasing,67.9%,Hard
+13,https://leetcode.com/problems/largest-3-same-digit-number-in-string/,2264. Largest 3-Same-Digit Number in String,59.0%,Easy
+14,https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/,2265. Count Nodes Equal to Average of Subtree,85.6%,Medium
+15,https://leetcode.com/problems/count-number-of-texts/,2266. Count Number of Texts,47.3%,Medium
+16,https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/,2267. Check if There Is a Valid Parentheses String Path,37.9%,Hard
+17,https://leetcode.com/problems/minimum-number-of-keypresses/,2268. Minimum Number of Keypresses,74.0%,Medium
+18,https://leetcode.com/problems/find-the-k-beauty-of-a-number/,2269. Find the K-Beauty of a Number,56.8%,Easy
+19,https://leetcode.com/problems/number-of-ways-to-split-array/,2270. Number of Ways to Split Array,44.6%,Medium
+20,https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/,2271. Maximum White Tiles Covered by a Carpet,32.7%,Medium
+21,https://leetcode.com/problems/substring-with-largest-variance/,2272. Substring With Largest Variance,37.5%,Hard
+22,https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/,2273. Find Resultant Array After Removing Anagrams,58.3%,Easy
+23,https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/,2274. Maximum Consecutive Floors Without Special Floors,52.1%,Medium
+24,https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/,2275. Largest Combination With Bitwise AND Greater Than Zero,72.4%,Medium
+25,https://leetcode.com/problems/count-integers-in-intervals/,2276. Count Integers in Intervals,34.3%,Hard
+26,https://leetcode.com/problems/closest-node-to-path-in-tree/,2277. Closest Node to Path in Tree,63.9%,Hard
+27,https://leetcode.com/problems/percentage-of-letter-in-string/,2278. Percentage of Letter in String,74.1%,Easy
+28,https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/,2279. Maximum Bags With Full Capacity of Rocks,62.6%,Medium
+29,https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/,2280. Minimum Lines to Represent a Line Chart,23.8%,Medium
+30,https://leetcode.com/problems/sum-of-total-strength-of-wizards/,2281. Sum of Total Strength of Wizards,27.9%,Hard
+31,https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/,2282. Number of People That Can Be Seen in a Grid,49.8%,Medium
+32,https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/,2283. Check if Number Has Equal Digit Count and Digit Value,73.5%,Easy
+33,https://leetcode.com/problems/sender-with-largest-word-count/,2284. Sender With Largest Word Count,56.0%,Medium
+34,https://leetcode.com/problems/maximum-total-importance-of-roads/,2285. Maximum Total Importance of Roads,60.8%,Medium
+35,https://leetcode.com/problems/booking-concert-tickets-in-groups/,2286. Booking Concert Tickets in Groups,15.7%,Hard
+36,https://leetcode.com/problems/rearrange-characters-to-make-target-string/,2287. Rearrange Characters to Make Target String,57.8%,Easy
+37,https://leetcode.com/problems/apply-discount-to-prices/,2288. Apply Discount to Prices,27.4%,Medium
+38,https://leetcode.com/problems/steps-to-make-array-non-decreasing/,2289. Steps to Make Array Non-decreasing,21.4%,Medium
+39,https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/,2290. Minimum Obstacle Removal to Reach Corner,48.7%,Hard
+40,https://leetcode.com/problems/maximum-profit-from-trading-stocks/,2291. Maximum Profit From Trading Stocks,46.3%,Medium
+41,https://leetcode.com/problems/products-with-three-or-more-orders-in-two-consecutive-years/,2292. Products With Three or More Orders in Two Consecutive Years,39.8%,Medium
+42,https://leetcode.com/problems/min-max-game/,2293. Min Max Game,64.3%,Easy
+43,https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/,2294. Partition Array Such That Maximum Difference Is K,72.6%,Medium
+44,https://leetcode.com/problems/replace-elements-in-an-array/,2295. Replace Elements in an Array,57.6%,Medium
+45,https://leetcode.com/problems/design-a-text-editor/,2296. Design a Text Editor,39.9%,Hard
+46,https://leetcode.com/problems/jump-game-viii/,2297. Jump Game VIII,56.4%,Medium
+47,https://leetcode.com/problems/tasks-count-in-the-weekend/,2298. Tasks Count in the Weekend,87.7%,Medium
+48,https://leetcode.com/problems/strong-password-checker-ii/,2299. Strong Password Checker II,56.7%,Easy
+49,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/,2300. Successful Pairs of Spells and Potions,31.7%,Medium

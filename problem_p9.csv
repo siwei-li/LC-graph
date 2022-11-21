@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/binary-watch/,401. Binary Watch,51.6%,Easy
+1,https://leetcode.com/problems/remove-k-digits/,402. Remove K Digits,30.5%,Medium
+2,https://leetcode.com/problems/frog-jump/,403. Frog Jump,43.1%,Hard
+3,https://leetcode.com/problems/sum-of-left-leaves/,404. Sum of Left Leaves,56.3%,Easy
+4,https://leetcode.com/problems/convert-a-number-to-hexadecimal/,405. Convert a Number to Hexadecimal,46.2%,Easy
+5,https://leetcode.com/problems/queue-reconstruction-by-height/,406. Queue Reconstruction by Height,72.8%,Medium
+6,https://leetcode.com/problems/trapping-rain-water-ii/,407. Trapping Rain Water II,47.5%,Hard
+7,https://leetcode.com/problems/valid-word-abbreviation/,408. Valid Word Abbreviation,34.8%,Easy
+8,https://leetcode.com/problems/longest-palindrome/,409. Longest Palindrome,54.6%,Easy
+9,https://leetcode.com/problems/split-array-largest-sum/,410. Split Array Largest Sum,53.3%,Hard
+10,https://leetcode.com/problems/minimum-unique-word-abbreviation/,411. Minimum Unique Word Abbreviation,39.3%,Hard
+11,https://leetcode.com/problems/fizz-buzz/,412. Fizz Buzz,68.9%,Easy
+12,https://leetcode.com/problems/arithmetic-slices/,413. Arithmetic Slices,65.1%,Medium
+13,https://leetcode.com/problems/third-maximum-number/,414. Third Maximum Number,32.6%,Easy
+14,https://leetcode.com/problems/add-strings/,415. Add Strings,52.6%,Easy
+15,https://leetcode.com/problems/partition-equal-subset-sum/,416. Partition Equal Subset Sum,46.6%,Medium
+16,https://leetcode.com/problems/pacific-atlantic-water-flow/,417. Pacific Atlantic Water Flow,54.1%,Medium
+17,https://leetcode.com/problems/sentence-screen-fitting/,418. Sentence Screen Fitting,35.6%,Medium
+18,https://leetcode.com/problems/battleships-in-a-board/,419. Battleships in a Board,74.7%,Medium
+19,https://leetcode.com/problems/strong-password-checker/,420. Strong Password Checker,14.3%,Hard
+20,https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/,421. Maximum XOR of Two Numbers in an Array,54.5%,Medium
+21,https://leetcode.com/problems/valid-word-square/,422. Valid Word Square,38.8%,Easy
+22,https://leetcode.com/problems/reconstruct-original-digits-from-english/,423. Reconstruct Original Digits from English,51.3%,Medium
+23,https://leetcode.com/problems/longest-repeating-character-replacement/,424. Longest Repeating Character Replacement,51.5%,Medium
+24,https://leetcode.com/problems/word-squares/,425. Word Squares,52.7%,Hard
+25,https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/,426. Convert Binary Search Tree to Sorted Doubly Linked List,64.6%,Medium
+26,https://leetcode.com/problems/construct-quad-tree/,427. Construct Quad Tree,66.3%,Medium
+27,https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/,428. Serialize and Deserialize N-ary Tree,65.5%,Hard
+28,https://leetcode.com/problems/n-ary-tree-level-order-traversal/,429. N-ary Tree Level Order Traversal,70.6%,Medium
+29,https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/,430. Flatten a Multilevel Doubly Linked List,59.5%,Medium
+30,https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/,431. Encode N-ary Tree to Binary Tree,78.6%,Hard
+31,https://leetcode.com/problems/all-oone-data-structure/,432. All O`one Data Structure,36.7%,Hard
+32,https://leetcode.com/problems/minimum-genetic-mutation/,433. Minimum Genetic Mutation,52.0%,Medium
+33,https://leetcode.com/problems/number-of-segments-in-a-string/,434. Number of Segments in a String,37.6%,Easy
+34,https://leetcode.com/problems/non-overlapping-intervals/,435. Non-overlapping Intervals,49.9%,Medium
+35,https://leetcode.com/problems/find-right-interval/,436. Find Right Interval,50.3%,Medium
+36,https://leetcode.com/problems/path-sum-iii/,437. Path Sum III,48.7%,Medium
+37,https://leetcode.com/problems/find-all-anagrams-in-a-string/,438. Find All Anagrams in a String,49.0%,Medium
+38,https://leetcode.com/problems/ternary-expression-parser/,439. Ternary Expression Parser,58.2%,Medium
+39,https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/,440. K-th Smallest in Lexicographical Order,30.8%,Hard
+40,https://leetcode.com/problems/arranging-coins/,441. Arranging Coins,46.1%,Easy
+41,https://leetcode.com/problems/find-all-duplicates-in-an-array/,442. Find All Duplicates in an Array,73.4%,Medium
+42,https://leetcode.com/problems/string-compression/,443. String Compression,48.9%,Medium
+43,https://leetcode.com/problems/sequence-reconstruction/,444. Sequence Reconstruction,26.4%,Medium
+44,https://leetcode.com/problems/add-two-numbers-ii/,445. Add Two Numbers II,59.5%,Medium
+45,https://leetcode.com/problems/arithmetic-slices-ii-subsequence/,446. Arithmetic Slices II - Subsequence,39.9%,Hard
+46,https://leetcode.com/problems/number-of-boomerangs/,447. Number of Boomerangs,54.7%,Medium
+47,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/,448. Find All Numbers Disappeared in an Array,59.7%,Easy
+48,https://leetcode.com/problems/serialize-and-deserialize-bst/,449. Serialize and Deserialize BST,56.8%,Medium
+49,https://leetcode.com/problems/delete-node-in-a-bst/,450. Delete Node in a BST,50.0%,Medium

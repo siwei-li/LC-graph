@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/hopper-company-queries-iii/,1651. Hopper Company Queries III,68.1%,Hard
+1,https://leetcode.com/problems/defuse-the-bomb/,1652. Defuse the Bomb,61.2%,Easy
+2,https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/,1653. Minimum Deletions to Make String Balanced,58.8%,Medium
+3,https://leetcode.com/problems/minimum-jumps-to-reach-home/,1654. Minimum Jumps to Reach Home,28.7%,Medium
+4,https://leetcode.com/problems/distribute-repeating-integers/,1655. Distribute Repeating Integers,39.2%,Hard
+5,https://leetcode.com/problems/design-an-ordered-stream/,1656. Design an Ordered Stream,85.4%,Easy
+6,https://leetcode.com/problems/determine-if-two-strings-are-close/,1657. Determine if Two Strings Are Close,54.1%,Medium
+7,https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/,1658. Minimum Operations to Reduce X to Zero,37.6%,Medium
+8,https://leetcode.com/problems/maximize-grid-happiness/,1659. Maximize Grid Happiness,38.4%,Hard
+9,https://leetcode.com/problems/correct-a-binary-tree/,1660. Correct a Binary Tree,72.6%,Medium
+10,https://leetcode.com/problems/average-time-of-process-per-machine/,1661. Average Time of Process per Machine,79.4%,Easy
+11,https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/,1662. Check If Two String Arrays are Equivalent,83.3%,Easy
+12,https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/,1663. Smallest String With A Given Numeric Value,66.8%,Medium
+13,https://leetcode.com/problems/ways-to-make-a-fair-array/,1664. Ways to Make a Fair Array,63.4%,Medium
+14,https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/,1665. Minimum Initial Energy to Finish Tasks,56.2%,Hard
+15,https://leetcode.com/problems/change-the-root-of-a-binary-tree/,1666. Change the Root of a Binary Tree,69.5%,Medium
+16,https://leetcode.com/problems/fix-names-in-a-table/,1667. Fix Names in a Table,66.8%,Easy
+17,https://leetcode.com/problems/maximum-repeating-substring/,1668. Maximum Repeating Substring,39.6%,Easy
+18,https://leetcode.com/problems/merge-in-between-linked-lists/,1669. Merge In Between Linked Lists,74.5%,Medium
+19,https://leetcode.com/problems/design-front-middle-back-queue/,1670. Design Front Middle Back Queue,56.3%,Medium
+20,https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/,1671. Minimum Number of Removals to Make Mountain Array,42.5%,Hard
+21,https://leetcode.com/problems/richest-customer-wealth/,1672. Richest Customer Wealth,88.2%,Easy
+22,https://leetcode.com/problems/find-the-most-competitive-subsequence/,1673. Find the Most Competitive Subsequence,49.4%,Medium
+23,https://leetcode.com/problems/minimum-moves-to-make-array-complementary/,1674. Minimum Moves to Make Array Complementary,38.6%,Medium
+24,https://leetcode.com/problems/minimize-deviation-in-array/,1675. Minimize Deviation in Array,52.0%,Hard
+25,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/,1676. Lowest Common Ancestor of a Binary Tree IV,79.3%,Medium
+26,https://leetcode.com/problems/products-worth-over-invoices/,1677. Product's Worth Over Invoices,39.2%,Easy
+27,https://leetcode.com/problems/goal-parser-interpretation/,1678. Goal Parser Interpretation,86.1%,Easy
+28,https://leetcode.com/problems/max-number-of-k-sum-pairs/,1679. Max Number of K-Sum Pairs,57.4%,Medium
+29,https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/,1680. Concatenation of Consecutive Binary Numbers,57.0%,Medium
+30,https://leetcode.com/problems/minimum-incompatibility/,1681. Minimum Incompatibility,37.3%,Hard
+31,https://leetcode.com/problems/longest-palindromic-subsequence-ii/,1682. Longest Palindromic Subsequence II,49.3%,Medium
+32,https://leetcode.com/problems/invalid-tweets/,1683. Invalid Tweets,90.9%,Easy
+33,https://leetcode.com/problems/count-the-number-of-consistent-strings/,1684. Count the Number of Consistent Strings,81.9%,Easy
+34,https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/,1685. Sum of Absolute Differences in a Sorted Array,65.0%,Medium
+35,https://leetcode.com/problems/stone-game-vi/,1686. Stone Game VI,54.4%,Medium
+36,https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/,1687. Delivering Boxes from Storage to Ports,38.4%,Hard
+37,https://leetcode.com/problems/count-of-matches-in-tournament/,1688. Count of Matches in Tournament,83.2%,Easy
+38,https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/,1689. Partitioning Into Minimum Number Of Deci-Binary Numbers,89.6%,Medium
+39,https://leetcode.com/problems/stone-game-vii/,1690. Stone Game VII,58.6%,Medium
+40,https://leetcode.com/problems/maximum-height-by-stacking-cuboids/,1691. Maximum Height by Stacking Cuboids,54.1%,Hard
+41,https://leetcode.com/problems/count-ways-to-distribute-candies/,1692. Count Ways to Distribute Candies,61.9%,Hard
+42,https://leetcode.com/problems/daily-leads-and-partners/,1693. Daily Leads and Partners,90.2%,Easy
+43,https://leetcode.com/problems/reformat-phone-number/,1694. Reformat Phone Number,64.9%,Easy
+44,https://leetcode.com/problems/maximum-erasure-value/,1695. Maximum Erasure Value,57.7%,Medium
+45,https://leetcode.com/problems/jump-game-vi/,1696. Jump Game VI,46.3%,Medium
+46,https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/,1697. Checking Existence of Edge Length Limited Paths,50.4%,Hard
+47,https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/,1698. Number of Distinct Substrings in a String,63.3%,Medium
+48,https://leetcode.com/problems/number-of-calls-between-two-persons/,1699. Number of Calls Between Two Persons,85.5%,Medium
+49,https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/,1700. Number of Students Unable to Eat Lunch,67.9%,Easy
