@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/4-keys-keyboard/,651. 4 Keys Keyboard,54.5%,Medium
+1,https://leetcode.com/problems/find-duplicate-subtrees/,652. Find Duplicate Subtrees,56.5%,Medium
+2,https://leetcode.com/problems/two-sum-iv-input-is-a-bst/,653. Two Sum IV - Input is a BST,61.0%,Easy
+3,https://leetcode.com/problems/maximum-binary-tree/,654. Maximum Binary Tree,84.5%,Medium
+4,https://leetcode.com/problems/print-binary-tree/,655. Print Binary Tree,61.4%,Medium
+5,https://leetcode.com/problems/coin-path/,656. Coin Path,31.6%,Hard
+6,https://leetcode.com/problems/robot-return-to-origin/,657. Robot Return to Origin,75.3%,Easy
+7,https://leetcode.com/problems/find-k-closest-elements/,658. Find K Closest Elements,46.8%,Medium
+8,https://leetcode.com/problems/split-array-into-consecutive-subsequences/,659. Split Array into Consecutive Subsequences,50.6%,Medium
+9,https://leetcode.com/problems/remove-9/,660. Remove 9,56.8%,Hard
+10,https://leetcode.com/problems/image-smoother/,661. Image Smoother,55.1%,Easy
+11,https://leetcode.com/problems/maximum-width-of-binary-tree/,662. Maximum Width of Binary Tree,40.6%,Medium
+12,https://leetcode.com/problems/equal-tree-partition/,663. Equal Tree Partition,41.4%,Medium
+13,https://leetcode.com/problems/strange-printer/,664. Strange Printer,46.8%,Hard
+14,https://leetcode.com/problems/non-decreasing-array/,665. Non-decreasing Array,24.2%,Medium
+15,https://leetcode.com/problems/path-sum-iv/,666. Path Sum IV,59.1%,Medium
+16,https://leetcode.com/problems/beautiful-arrangement-ii/,667. Beautiful Arrangement II,59.7%,Medium
+17,https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/,668. Kth Smallest Number in Multiplication Table,51.5%,Hard
+18,https://leetcode.com/problems/trim-a-binary-search-tree/,669. Trim a Binary Search Tree,66.3%,Medium
+19,https://leetcode.com/problems/maximum-swap/,670. Maximum Swap,47.9%,Medium
+20,https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/,671. Second Minimum Node In a Binary Tree,44.0%,Easy
+21,https://leetcode.com/problems/bulb-switcher-ii/,672. Bulb Switcher II,50.9%,Medium
+22,https://leetcode.com/problems/number-of-longest-increasing-subsequence/,673. Number of Longest Increasing Subsequence,42.3%,Medium
+23,https://leetcode.com/problems/longest-continuous-increasing-subsequence/,674. Longest Continuous Increasing Subsequence,49.1%,Easy
+24,https://leetcode.com/problems/cut-off-trees-for-golf-event/,675. Cut Off Trees for Golf Event,34.2%,Hard
+25,https://leetcode.com/problems/implement-magic-dictionary/,676. Implement Magic Dictionary,56.9%,Medium
+26,https://leetcode.com/problems/map-sum-pairs/,677. Map Sum Pairs,56.9%,Medium
+27,https://leetcode.com/problems/valid-parenthesis-string/,678. Valid Parenthesis String,33.9%,Medium
+28,https://leetcode.com/problems/24-game/,679. 24 Game,49.1%,Hard
+29,https://leetcode.com/problems/valid-palindrome-ii/,680. Valid Palindrome II,39.3%,Easy
+30,https://leetcode.com/problems/next-closest-time/,681. Next Closest Time,46.4%,Medium
+31,https://leetcode.com/problems/baseball-game/,682. Baseball Game,73.7%,Easy
+32,https://leetcode.com/problems/k-empty-slots/,683. K Empty Slots,36.9%,Hard
+33,https://leetcode.com/problems/redundant-connection/,684. Redundant Connection,62.0%,Medium
+34,https://leetcode.com/problems/redundant-connection-ii/,685. Redundant Connection II,34.1%,Hard
+35,https://leetcode.com/problems/repeated-string-match/,686. Repeated String Match,34.0%,Medium
+36,https://leetcode.com/problems/longest-univalue-path/,687. Longest Univalue Path,40.2%,Medium
+37,https://leetcode.com/problems/knight-probability-in-chessboard/,688. Knight Probability in Chessboard,52.1%,Medium
+38,https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/,689. Maximum Sum of 3 Non-Overlapping Subarrays,48.9%,Hard
+39,https://leetcode.com/problems/employee-importance/,690. Employee Importance,65.2%,Medium
+40,https://leetcode.com/problems/stickers-to-spell-word/,691. Stickers to Spell Word,46.3%,Hard
+41,https://leetcode.com/problems/top-k-frequent-words/,692. Top K Frequent Words,56.9%,Medium
+42,https://leetcode.com/problems/binary-number-with-alternating-bits/,693. Binary Number with Alternating Bits,61.3%,Easy
+43,https://leetcode.com/problems/number-of-distinct-islands/,694. Number of Distinct Islands,60.6%,Medium
+44,https://leetcode.com/problems/max-area-of-island/,695. Max Area of Island,71.7%,Medium
+45,https://leetcode.com/problems/count-binary-substrings/,696. Count Binary Substrings,65.6%,Easy
+46,https://leetcode.com/problems/degree-of-an-array/,697. Degree of an Array,55.9%,Easy
+47,https://leetcode.com/problems/partition-to-k-equal-sum-subsets/,698. Partition to K Equal Sum Subsets,40.8%,Medium
+48,https://leetcode.com/problems/falling-squares/,699. Falling Squares,44.4%,Hard
+49,https://leetcode.com/problems/search-in-a-binary-search-tree/,700. Search in a Binary Search Tree,77.1%,Easy

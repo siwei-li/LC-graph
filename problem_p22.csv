@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/height-checker/,1051. Height Checker,75.1%,Easy
+1,https://leetcode.com/problems/grumpy-bookstore-owner/,1052. Grumpy Bookstore Owner,57.1%,Medium
+2,https://leetcode.com/problems/previous-permutation-with-one-swap/,1053. Previous Permutation With One Swap,50.8%,Medium
+3,https://leetcode.com/problems/distant-barcodes/,1054. Distant Barcodes,45.7%,Medium
+4,https://leetcode.com/problems/shortest-way-to-form-string/,1055. Shortest Way to Form String,59.1%,Medium
+5,https://leetcode.com/problems/confusing-number/,1056. Confusing Number,46.1%,Easy
+6,https://leetcode.com/problems/campus-bikes/,1057. Campus Bikes,57.7%,Medium
+7,https://leetcode.com/problems/minimize-rounding-error-to-meet-target/,1058. Minimize Rounding Error to Meet Target,44.9%,Medium
+8,https://leetcode.com/problems/all-paths-from-source-lead-to-destination/,1059. All Paths from Source Lead to Destination,40.2%,Medium
+9,https://leetcode.com/problems/missing-element-in-sorted-array/,1060. Missing Element in Sorted Array,54.6%,Medium
+10,https://leetcode.com/problems/lexicographically-smallest-equivalent-string/,1061. Lexicographically Smallest Equivalent String,70.6%,Medium
+11,https://leetcode.com/problems/longest-repeating-substring/,1062. Longest Repeating Substring,59.2%,Medium
+12,https://leetcode.com/problems/number-of-valid-subarrays/,1063. Number of Valid Subarrays,74.0%,Hard
+13,https://leetcode.com/problems/fixed-point/,1064. Fixed Point,63.6%,Easy
+14,https://leetcode.com/problems/index-pairs-of-a-string/,1065. Index Pairs of a String,63.1%,Easy
+15,https://leetcode.com/problems/campus-bikes-ii/,1066. Campus Bikes II,54.5%,Medium
+16,https://leetcode.com/problems/digit-count-in-range/,1067. Digit Count in Range,44.8%,Hard
+17,https://leetcode.com/problems/product-sales-analysis-i/,1068. Product Sales Analysis I,80.3%,Easy
+18,https://leetcode.com/problems/product-sales-analysis-ii/,1069. Product Sales Analysis II,81.9%,Easy
+19,https://leetcode.com/problems/product-sales-analysis-iii/,1070. Product Sales Analysis III,49.2%,Medium
+20,https://leetcode.com/problems/greatest-common-divisor-of-strings/,1071. Greatest Common Divisor of Strings,51.1%,Easy
+21,https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/,1072. Flip Columns For Maximum Number of Equal Rows,63.0%,Medium
+22,https://leetcode.com/problems/adding-two-negabinary-numbers/,1073. Adding Two Negabinary Numbers,36.3%,Medium
+23,https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/,1074. Number of Submatrices That Sum to Target,69.8%,Hard
+24,https://leetcode.com/problems/project-employees-i/,1075. Project Employees I,67.2%,Easy
+25,https://leetcode.com/problems/project-employees-ii/,1076. Project Employees II,51.0%,Easy
+26,https://leetcode.com/problems/project-employees-iii/,1077. Project Employees III,78.6%,Medium
+27,https://leetcode.com/problems/occurrences-after-bigram/,1078. Occurrences After Bigram,63.8%,Easy
+28,https://leetcode.com/problems/letter-tile-possibilities/,1079. Letter Tile Possibilities,76.1%,Medium
+29,https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/,1080. Insufficient Nodes in Root to Leaf Paths,53.0%,Medium
+30,https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/,1081. Smallest Subsequence of Distinct Characters,57.5%,Medium
+31,https://leetcode.com/problems/sales-analysis-i/,1082. Sales Analysis I,75.4%,Easy
+32,https://leetcode.com/problems/sales-analysis-ii/,1083. Sales Analysis II,50.4%,Easy
+33,https://leetcode.com/problems/sales-analysis-iii/,1084. Sales Analysis III,51.7%,Easy
+34,https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/,1085. Sum of Digits in the Minimum Number,75.9%,Easy
+35,https://leetcode.com/problems/high-five/,1086. High Five,75.1%,Easy
+36,https://leetcode.com/problems/brace-expansion/,1087. Brace Expansion,66.1%,Medium
+37,https://leetcode.com/problems/confusing-number-ii/,1088. Confusing Number II,46.5%,Hard
+38,https://leetcode.com/problems/duplicate-zeros/,1089. Duplicate Zeros,51.5%,Easy
+39,https://leetcode.com/problems/largest-values-from-labels/,1090. Largest Values From Labels,60.9%,Medium
+40,https://leetcode.com/problems/shortest-path-in-binary-matrix/,1091. Shortest Path in Binary Matrix,44.5%,Medium
+41,https://leetcode.com/problems/shortest-common-supersequence/,1092. Shortest Common Supersequence,57.8%,Hard
+42,https://leetcode.com/problems/statistics-from-a-large-sample/,1093. Statistics from a Large Sample,44.4%,Medium
+43,https://leetcode.com/problems/car-pooling/,1094. Car Pooling,57.3%,Medium
+44,https://leetcode.com/problems/find-in-mountain-array/,1095. Find in Mountain Array,35.8%,Hard
+45,https://leetcode.com/problems/brace-expansion-ii/,1096. Brace Expansion II,63.5%,Hard
+46,https://leetcode.com/problems/game-play-analysis-v/,1097. Game Play Analysis V,55.0%,Hard
+47,https://leetcode.com/problems/unpopular-books/,1098. Unpopular Books,45.2%,Medium
+48,https://leetcode.com/problems/two-sum-less-than-k/,1099. Two Sum Less Than K,60.8%,Easy
+49,https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/,1100. Find K-Length Substrings With No Repeated Characters,74.7%,Medium

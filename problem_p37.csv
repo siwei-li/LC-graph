@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/number-of-orders-in-the-backlog/,1801. Number of Orders in the Backlog,47.4%,Medium
+1,https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/,1802. Maximum Value at a Given Index in a Bounded Array,31.9%,Medium
+2,https://leetcode.com/problems/count-pairs-with-xor-in-a-range/,1803. Count Pairs With XOR in a Range,46.8%,Hard
+3,https://leetcode.com/problems/implement-trie-ii-prefix-tree/,1804. Implement Trie II (Prefix Tree),59.6%,Medium
+4,https://leetcode.com/problems/number-of-different-integers-in-a-string/,1805. Number of Different Integers in a String,36.2%,Easy
+5,https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/,1806. Minimum Number of Operations to Reinitialize a Permutation,71.4%,Medium
+6,https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/,1807. Evaluate the Bracket Pairs of a String,66.7%,Medium
+7,https://leetcode.com/problems/maximize-number-of-nice-divisors/,1808. Maximize Number of Nice Divisors,31.3%,Hard
+8,https://leetcode.com/problems/ad-free-sessions/,1809. Ad-Free Sessions,59.8%,Easy
+9,https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/,1810. Minimum Path Cost in a Hidden Grid,53.9%,Medium
+10,https://leetcode.com/problems/find-interview-candidates/,1811. Find Interview Candidates,65.1%,Medium
+11,https://leetcode.com/problems/determine-color-of-a-chessboard-square/,1812. Determine Color of a Chessboard Square,77.4%,Easy
+12,https://leetcode.com/problems/sentence-similarity-iii/,1813. Sentence Similarity III,33.1%,Medium
+13,https://leetcode.com/problems/count-nice-pairs-in-an-array/,1814. Count Nice Pairs in an Array,42.0%,Medium
+14,https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/,1815. Maximum Number of Groups Getting Fresh Donuts,40.2%,Hard
+15,https://leetcode.com/problems/truncate-sentence/,1816. Truncate Sentence,82.1%,Easy
+16,https://leetcode.com/problems/finding-the-users-active-minutes/,1817. Finding the Users Active Minutes,80.7%,Medium
+17,https://leetcode.com/problems/minimum-absolute-sum-difference/,1818. Minimum Absolute Sum Difference,30.2%,Medium
+18,https://leetcode.com/problems/number-of-different-subsequences-gcds/,1819. Number of Different Subsequences GCDs,38.5%,Hard
+19,https://leetcode.com/problems/maximum-number-of-accepted-invitations/,1820. Maximum Number of Accepted Invitations,49.8%,Medium
+20,https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/,1821. Find Customers With Positive Revenue this Year,89.4%,Easy
+21,https://leetcode.com/problems/sign-of-the-product-of-an-array/,1822. Sign of the Product of an Array,66.1%,Easy
+22,https://leetcode.com/problems/find-the-winner-of-the-circular-game/,1823. Find the Winner of the Circular Game,77.9%,Medium
+23,https://leetcode.com/problems/minimum-sideway-jumps/,1824. Minimum Sideway Jumps,49.5%,Medium
+24,https://leetcode.com/problems/finding-mk-average/,1825. Finding MK Average,35.5%,Hard
+25,https://leetcode.com/problems/faulty-sensor/,1826. Faulty Sensor,49.4%,Easy
+26,https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/,1827. Minimum Operations to Make the Array Increasing,78.2%,Easy
+27,https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/,1828. Queries on Number of Points Inside a Circle,86.6%,Medium
+28,https://leetcode.com/problems/maximum-xor-for-each-query/,1829. Maximum XOR for Each Query,76.9%,Medium
+29,https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/,1830. Minimum Number of Operations to Make String Sorted,49.1%,Hard
+30,https://leetcode.com/problems/maximum-transaction-each-day/,1831. Maximum Transaction Each Day,84.4%,Medium
+31,https://leetcode.com/problems/check-if-the-sentence-is-pangram/,1832. Check if the Sentence Is Pangram,83.9%,Easy
+32,https://leetcode.com/problems/maximum-ice-cream-bars/,1833. Maximum Ice Cream Bars,65.6%,Medium
+33,https://leetcode.com/problems/single-threaded-cpu/,1834. Single-Threaded CPU,42.0%,Medium
+34,https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/,1835. Find XOR Sum of All Pairs Bitwise AND,60.1%,Hard
+35,https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/,1836. Remove Duplicates From an Unsorted Linked List,69.5%,Medium
+36,https://leetcode.com/problems/sum-of-digits-in-base-k/,1837. Sum of Digits in Base K,76.8%,Easy
+37,https://leetcode.com/problems/frequency-of-the-most-frequent-element/,1838. Frequency of the Most Frequent Element,38.6%,Medium
+38,https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/,1839. Longest Substring Of All Vowels in Order,48.6%,Medium
+39,https://leetcode.com/problems/maximum-building-height/,1840. Maximum Building Height,35.3%,Hard
+40,https://leetcode.com/problems/league-statistics/,1841. League Statistics,57.1%,Medium
+41,https://leetcode.com/problems/next-palindrome-using-same-digits/,1842. Next Palindrome Using Same Digits,53.4%,Hard
+42,https://leetcode.com/problems/suspicious-bank-accounts/,1843. Suspicious Bank Accounts,48.1%,Medium
+43,https://leetcode.com/problems/replace-all-digits-with-characters/,1844. Replace All Digits with Characters,79.8%,Easy
+44,https://leetcode.com/problems/seat-reservation-manager/,1845. Seat Reservation Manager,64.7%,Medium
+45,https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/,1846. Maximum Element After Decreasing and Rearranging,59.1%,Medium
+46,https://leetcode.com/problems/closest-room/,1847. Closest Room,35.3%,Hard
+47,https://leetcode.com/problems/minimum-distance-to-the-target-element/,1848. Minimum Distance to the Target Element,58.5%,Easy
+48,https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/,1849. Splitting a String Into Descending Consecutive Values,32.3%,Medium
+49,https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/,1850. Minimum Adjacent Swaps to Reach the Kth Smallest Number,71.9%,Medium

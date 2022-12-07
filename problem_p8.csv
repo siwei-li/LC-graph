@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/android-unlock-patterns/,351. Android Unlock Patterns,51.4%,Medium
+1,https://leetcode.com/problems/data-stream-as-disjoint-intervals/,352. Data Stream as Disjoint Intervals,51.6%,Hard
+2,https://leetcode.com/problems/design-snake-game/,353. Design Snake Game,39.1%,Medium
+3,https://leetcode.com/problems/russian-doll-envelopes/,354. Russian Doll Envelopes,38.3%,Hard
+4,https://leetcode.com/problems/design-twitter/,355. Design Twitter,36.8%,Medium
+5,https://leetcode.com/problems/line-reflection/,356. Line Reflection,34.7%,Medium
+6,https://leetcode.com/problems/count-numbers-with-unique-digits/,357. Count Numbers with Unique Digits,51.5%,Medium
+7,https://leetcode.com/problems/rearrange-string-k-distance-apart/,358. Rearrange String k Distance Apart,37.5%,Hard
+8,https://leetcode.com/problems/logger-rate-limiter/,359. Logger Rate Limiter,75.6%,Easy
+9,https://leetcode.com/problems/sort-transformed-array/,360. Sort Transformed Array,54.7%,Medium
+10,https://leetcode.com/problems/bomb-enemy/,361. Bomb Enemy,50.9%,Medium
+11,https://leetcode.com/problems/design-hit-counter/,362. Design Hit Counter,68.4%,Medium
+12,https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/,363. Max Sum of Rectangle No Larger Than K,44.1%,Hard
+13,https://leetcode.com/problems/nested-list-weight-sum-ii/,364. Nested List Weight Sum II,67.0%,Medium
+14,https://leetcode.com/problems/water-and-jug-problem/,365. Water and Jug Problem,36.7%,Medium
+15,https://leetcode.com/problems/find-leaves-of-binary-tree/,366. Find Leaves of Binary Tree,80.2%,Medium
+16,https://leetcode.com/problems/valid-perfect-square/,367. Valid Perfect Square,43.3%,Easy
+17,https://leetcode.com/problems/largest-divisible-subset/,368. Largest Divisible Subset,41.3%,Medium
+18,https://leetcode.com/problems/plus-one-linked-list/,369. Plus One Linked List,60.9%,Medium
+19,https://leetcode.com/problems/range-addition/,370. Range Addition,70.9%,Medium
+20,https://leetcode.com/problems/sum-of-two-integers/,371. Sum of Two Integers,50.7%,Medium
+21,https://leetcode.com/problems/super-pow/,372. Super Pow,37.1%,Medium
+22,https://leetcode.com/problems/find-k-pairs-with-smallest-sums/,373. Find K Pairs with Smallest Sums,38.3%,Medium
+23,https://leetcode.com/problems/guess-number-higher-or-lower/,374. Guess Number Higher or Lower,51.4%,Easy
+24,https://leetcode.com/problems/guess-number-higher-or-lower-ii/,375. Guess Number Higher or Lower II,46.5%,Medium
+25,https://leetcode.com/problems/wiggle-subsequence/,376. Wiggle Subsequence,48.2%,Medium
+26,https://leetcode.com/problems/combination-sum-iv/,377. Combination Sum IV,52.1%,Medium
+27,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/,378. Kth Smallest Element in a Sorted Matrix,61.6%,Medium
+28,https://leetcode.com/problems/design-phone-directory/,379. Design Phone Directory,51.0%,Medium
+29,https://leetcode.com/problems/insert-delete-getrandom-o1/,380. Insert Delete GetRandom O(1),52.0%,Medium
+30,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/,381. Insert Delete GetRandom O(1) - Duplicates allowed,35.7%,Hard
+31,https://leetcode.com/problems/linked-list-random-node/,382. Linked List Random Node,59.5%,Medium
+32,https://leetcode.com/problems/ransom-note/,383. Ransom Note,57.6%,Easy
+33,https://leetcode.com/problems/shuffle-an-array/,384. Shuffle an Array,57.7%,Medium
+34,https://leetcode.com/problems/mini-parser/,385. Mini Parser,36.6%,Medium
+35,https://leetcode.com/problems/lexicographical-numbers/,386. Lexicographical Numbers,60.8%,Medium
+36,https://leetcode.com/problems/first-unique-character-in-a-string/,387. First Unique Character in a String,59.0%,Easy
+37,https://leetcode.com/problems/longest-absolute-file-path/,388. Longest Absolute File Path,46.5%,Medium
+38,https://leetcode.com/problems/find-the-difference/,389. Find the Difference,60.3%,Easy
+39,https://leetcode.com/problems/elimination-game/,390. Elimination Game,46.5%,Medium
+40,https://leetcode.com/problems/perfect-rectangle/,391. Perfect Rectangle,32.5%,Hard
+41,https://leetcode.com/problems/is-subsequence/,392. Is Subsequence,49.0%,Easy
+42,https://leetcode.com/problems/utf-8-validation/,393. UTF-8 Validation,45.2%,Medium
+43,https://leetcode.com/problems/decode-string/,394. Decode String,57.6%,Medium
+44,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/,395. Longest Substring with At Least K Repeating Characters,44.8%,Medium
+45,https://leetcode.com/problems/rotate-function/,396. Rotate Function,40.4%,Medium
+46,https://leetcode.com/problems/integer-replacement/,397. Integer Replacement,35.1%,Medium
+47,https://leetcode.com/problems/random-pick-index/,398. Random Pick Index,62.8%,Medium
+48,https://leetcode.com/problems/evaluate-division/,399. Evaluate Division,59.6%,Medium
+49,https://leetcode.com/problems/nth-digit/,400. Nth Digit,34.1%,Medium

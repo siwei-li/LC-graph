@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/student-attendance-record-i/,551. Student Attendance Record I,48.1%,Easy
+1,https://leetcode.com/problems/student-attendance-record-ii/,552. Student Attendance Record II,41.2%,Hard
+2,https://leetcode.com/problems/optimal-division/,553. Optimal Division,59.7%,Medium
+3,https://leetcode.com/problems/brick-wall/,554. Brick Wall,53.2%,Medium
+4,https://leetcode.com/problems/split-concatenated-strings/,555. Split Concatenated Strings,43.5%,Medium
+5,https://leetcode.com/problems/next-greater-element-iii/,556. Next Greater Element III,34.1%,Medium
+6,https://leetcode.com/problems/reverse-words-in-a-string-iii/,557. Reverse Words in a String III,81.6%,Easy
+7,https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/,558. Logical OR of Two Binary Grids Represented as Quad-Trees,48.3%,Medium
+8,https://leetcode.com/problems/maximum-depth-of-n-ary-tree/,559. Maximum Depth of N-ary Tree,71.5%,Easy
+9,https://leetcode.com/problems/subarray-sum-equals-k/,560. Subarray Sum Equals K,44.0%,Medium
+10,https://leetcode.com/problems/array-partition/,561. Array Partition,76.7%,Easy
+11,https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/,562. Longest Line of Consecutive One in Matrix,50.0%,Medium
+12,https://leetcode.com/problems/binary-tree-tilt/,563. Binary Tree Tilt,59.4%,Easy
+13,https://leetcode.com/problems/find-the-closest-palindrome/,564. Find the Closest Palindrome,22.0%,Hard
+14,https://leetcode.com/problems/array-nesting/,565. Array Nesting,56.5%,Medium
+15,https://leetcode.com/problems/reshape-the-matrix/,566. Reshape the Matrix,62.7%,Easy
+16,https://leetcode.com/problems/permutation-in-string/,567. Permutation in String,43.7%,Medium
+17,https://leetcode.com/problems/maximum-vacation-days/,568. Maximum Vacation Days,44.9%,Hard
+18,https://leetcode.com/problems/median-employee-salary/,569. Median Employee Salary,68.2%,Hard
+19,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,570. Managers with at Least 5 Direct Reports,67.1%,Medium
+20,https://leetcode.com/problems/find-median-given-frequency-of-numbers/,571. Find Median Given Frequency of Numbers,44.6%,Hard
+21,https://leetcode.com/problems/subtree-of-another-tree/,572. Subtree of Another Tree,46.0%,Easy
+22,https://leetcode.com/problems/squirrel-simulation/,573. Squirrel Simulation,55.0%,Medium
+23,https://leetcode.com/problems/winning-candidate/,574. Winning Candidate,59.9%,Medium
+24,https://leetcode.com/problems/distribute-candies/,575. Distribute Candies,66.1%,Easy
+25,https://leetcode.com/problems/out-of-boundary-paths/,576. Out of Boundary Paths,44.3%,Medium
+26,https://leetcode.com/problems/employee-bonus/,577. Employee Bonus,75.4%,Easy
+27,https://leetcode.com/problems/get-highest-answer-rate-question/,578. Get Highest Answer Rate Question,41.5%,Medium
+28,https://leetcode.com/problems/find-cumulative-salary-of-an-employee/,579. Find Cumulative Salary of an Employee,45.3%,Hard
+29,https://leetcode.com/problems/count-student-number-in-departments/,580. Count Student Number in Departments,58.4%,Medium
+30,https://leetcode.com/problems/shortest-unsorted-continuous-subarray/,581. Shortest Unsorted Continuous Subarray,36.3%,Medium
+31,https://leetcode.com/problems/kill-process/,582. Kill Process,68.5%,Medium
+32,https://leetcode.com/problems/delete-operation-for-two-strings/,583. Delete Operation for Two Strings,59.4%,Medium
+33,https://leetcode.com/problems/find-customer-referee/,584. Find Customer Referee,72.8%,Easy
+34,https://leetcode.com/problems/investments-in-2016/,585. Investments in 2016,53.3%,Medium
+35,https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/,586. Customer Placing the Largest Number of Orders,72.1%,Easy
+36,https://leetcode.com/problems/erect-the-fence/,587. Erect the Fence,52.3%,Hard
+37,https://leetcode.com/problems/design-in-memory-file-system/,588. Design In-Memory File System,48.8%,Hard
+38,https://leetcode.com/problems/n-ary-tree-preorder-traversal/,589. N-ary Tree Preorder Traversal,76.2%,Easy
+39,https://leetcode.com/problems/n-ary-tree-postorder-traversal/,590. N-ary Tree Postorder Traversal,77.2%,Easy
+40,https://leetcode.com/problems/tag-validator/,591. Tag Validator,37.1%,Hard
+41,https://leetcode.com/problems/fraction-addition-and-subtraction/,592. Fraction Addition and Subtraction,52.1%,Medium
+42,https://leetcode.com/problems/valid-square/,593. Valid Square,44.0%,Medium
+43,https://leetcode.com/problems/longest-harmonious-subsequence/,594. Longest Harmonious Subsequence,53.2%,Easy
+44,https://leetcode.com/problems/big-countries/,595. Big Countries,73.2%,Easy
+45,https://leetcode.com/problems/classes-more-than-5-students/,596. Classes More Than 5 Students,46.9%,Easy
+46,https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/,597. Friend Requests I: Overall Acceptance Rate,42.9%,Easy
+47,https://leetcode.com/problems/range-addition-ii/,598. Range Addition II,55.1%,Easy
+48,https://leetcode.com/problems/minimum-index-sum-of-two-lists/,599. Minimum Index Sum of Two Lists,52.9%,Easy
+49,https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/,600. Non-negative Integers without Consecutive Ones,39.0%,Hard

@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/number-of-paths-with-max-score/,1301. Number of Paths with Max Score,38.7%,Hard
+1,https://leetcode.com/problems/deepest-leaves-sum/,1302. Deepest Leaves Sum,86.9%,Medium
+2,https://leetcode.com/problems/find-the-team-size/,1303. Find the Team Size,90.8%,Easy
+3,https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/,1304. Find N Unique Integers Sum up to Zero,77.1%,Easy
+4,https://leetcode.com/problems/all-elements-in-two-binary-search-trees/,1305. All Elements in Two Binary Search Trees,79.8%,Medium
+5,https://leetcode.com/problems/jump-game-iii/,1306. Jump Game III,63.1%,Medium
+6,https://leetcode.com/problems/verbal-arithmetic-puzzle/,1307. Verbal Arithmetic Puzzle,34.8%,Hard
+7,https://leetcode.com/problems/running-total-for-different-genders/,1308. Running Total for Different Genders,88.2%,Medium
+8,https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/,1309. Decrypt String from Alphabet to Integer Mapping,79.5%,Easy
+9,https://leetcode.com/problems/xor-queries-of-a-subarray/,1310. XOR Queries of a Subarray,72.2%,Medium
+10,https://leetcode.com/problems/get-watched-videos-by-your-friends/,1311. Get Watched Videos by Your Friends,45.9%,Medium
+11,https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/,1312. Minimum Insertion Steps to Make a String Palindrome,65.7%,Hard
+12,https://leetcode.com/problems/decompress-run-length-encoded-list/,1313. Decompress Run-Length Encoded List,85.9%,Easy
+13,https://leetcode.com/problems/matrix-block-sum/,1314. Matrix Block Sum,75.4%,Medium
+14,https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/,1315. Sum of Nodes with Even-Valued Grandparent,85.6%,Medium
+15,https://leetcode.com/problems/distinct-echo-substrings/,1316. Distinct Echo Substrings,49.7%,Hard
+16,https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/,1317. Convert Integer to the Sum of Two No-Zero Integers,56.0%,Easy
+17,https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/,1318. Minimum Flips to Make a OR b Equal to c,66.0%,Medium
+18,https://leetcode.com/problems/number-of-operations-to-make-network-connected/,1319. Number of Operations to Make Network Connected,58.5%,Medium
+19,https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/,1320. Minimum Distance to Type a Word Using Two Fingers,59.8%,Hard
+20,https://leetcode.com/problems/restaurant-growth/,1321. Restaurant Growth,71.9%,Medium
+21,https://leetcode.com/problems/ads-performance/,1322. Ads Performance,61.0%,Easy
+22,https://leetcode.com/problems/maximum-69-number/,1323. Maximum 69 Number,82.1%,Easy
+23,https://leetcode.com/problems/print-words-vertically/,1324. Print Words Vertically,60.4%,Medium
+24,https://leetcode.com/problems/delete-leaves-with-a-given-value/,1325. Delete Leaves With a Given Value,74.7%,Medium
+25,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/,1326. Minimum Number of Taps to Open to Water a Garden,47.7%,Hard
+26,https://leetcode.com/problems/list-the-products-ordered-in-a-period/,1327. List the Products Ordered in a Period,77.1%,Easy
+27,https://leetcode.com/problems/break-a-palindrome/,1328. Break a Palindrome,53.2%,Medium
+28,https://leetcode.com/problems/sort-the-matrix-diagonally/,1329. Sort the Matrix Diagonally,83.6%,Medium
+29,https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/,1330. Reverse Subarray To Maximize Array Value,40.0%,Hard
+30,https://leetcode.com/problems/rank-transform-of-an-array/,1331. Rank Transform of an Array,59.1%,Easy
+31,https://leetcode.com/problems/remove-palindromic-subsequences/,1332. Remove Palindromic Subsequences,76.1%,Easy
+32,https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/,"1333. Filter Restaurants by Vegan-Friendly, Price and Distance",59.6%,Medium
+33,https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/,1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance,53.2%,Medium
+34,https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/,1335. Minimum Difficulty of a Job Schedule,58.7%,Hard
+35,https://leetcode.com/problems/number-of-transactions-per-visit/,1336. Number of Transactions per Visit,51.3%,Hard
+36,https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/,1337. The K Weakest Rows in a Matrix,72.8%,Easy
+37,https://leetcode.com/problems/reduce-array-size-to-the-half/,1338. Reduce Array Size to The Half,69.7%,Medium
+38,https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/,1339. Maximum Product of Splitted Binary Tree,43.4%,Medium
+39,https://leetcode.com/problems/jump-game-v/,1340. Jump Game V,62.5%,Hard
+40,https://leetcode.com/problems/movie-rating/,1341. Movie Rating,58.2%,Medium
+41,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/,1342. Number of Steps to Reduce a Number to Zero,85.4%,Easy
+42,https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/,1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold,67.7%,Medium
+43,https://leetcode.com/problems/angle-between-hands-of-a-clock/,1344. Angle Between Hands of a Clock,63.4%,Medium
+44,https://leetcode.com/problems/jump-game-iv/,1345. Jump Game IV,44.0%,Hard
+45,https://leetcode.com/problems/check-if-n-and-its-double-exist/,1346. Check If N and Its Double Exist,36.2%,Easy
+46,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/,1347. Minimum Number of Steps to Make Two Strings Anagram,77.4%,Medium
+47,https://leetcode.com/problems/tweet-counts-per-frequency/,1348. Tweet Counts Per Frequency,43.6%,Medium
+48,https://leetcode.com/problems/maximum-students-taking-exam/,1349. Maximum Students Taking Exam,48.3%,Hard
+49,https://leetcode.com/problems/students-with-invalid-departments/,1350. Students With Invalid Departments,90.5%,Easy

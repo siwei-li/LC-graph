@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/,1351. Count Negative Numbers in a Sorted Matrix,75.2%,Easy
+1,https://leetcode.com/problems/product-of-the-last-k-numbers/,1352. Product of the Last K Numbers,49.7%,Medium
+2,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/,1353. Maximum Number of Events That Can Be Attended,32.9%,Medium
+3,https://leetcode.com/problems/construct-target-array-with-multiple-sums/,1354. Construct Target Array With Multiple Sums,36.3%,Hard
+4,https://leetcode.com/problems/activity-participants/,1355. Activity Participants,74.3%,Medium
+5,https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/,1356. Sort Integers by The Number of 1 Bits,72.0%,Easy
+6,https://leetcode.com/problems/apply-discount-every-n-orders/,1357. Apply Discount Every n Orders,69.9%,Medium
+7,https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/,1358. Number of Substrings Containing All Three Characters,63.0%,Medium
+8,https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/,1359. Count All Valid Pickup and Delivery Options,62.9%,Hard
+9,https://leetcode.com/problems/number-of-days-between-two-dates/,1360. Number of Days Between Two Dates,47.6%,Easy
+10,https://leetcode.com/problems/validate-binary-tree-nodes/,1361. Validate Binary Tree Nodes,40.3%,Medium
+11,https://leetcode.com/problems/closest-divisors/,1362. Closest Divisors,59.9%,Medium
+12,https://leetcode.com/problems/largest-multiple-of-three/,1363. Largest Multiple of Three,33.3%,Hard
+13,https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/,1364. Number of Trusted Contacts of a Customer,79.0%,Medium
+14,https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/,1365. How Many Numbers Are Smaller Than the Current Number,86.7%,Easy
+15,https://leetcode.com/problems/rank-teams-by-votes/,1366. Rank Teams by Votes,58.6%,Medium
+16,https://leetcode.com/problems/linked-list-in-binary-tree/,1367. Linked List in Binary Tree,43.5%,Medium
+17,https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/,1368. Minimum Cost to Make at Least One Valid Path in a Grid,61.3%,Hard
+18,https://leetcode.com/problems/get-the-second-most-recent-activity/,1369. Get the Second Most Recent Activity,69.7%,Hard
+19,https://leetcode.com/problems/increasing-decreasing-string/,1370. Increasing Decreasing String,77.4%,Easy
+20,https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/,1371. Find the Longest Substring Containing Vowels in Even Counts,63.0%,Medium
+21,https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/,1372. Longest ZigZag Path in a Binary Tree,59.7%,Medium
+22,https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/,1373. Maximum Sum BST in Binary Tree,39.2%,Hard
+23,https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/,1374. Generate a String With Characters That Have Odd Counts,77.6%,Easy
+24,https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/,1375. Number of Times Binary String Is Prefix-Aligned,65.9%,Medium
+25,https://leetcode.com/problems/time-needed-to-inform-all-employees/,1376. Time Needed to Inform All Employees,58.4%,Medium
+26,https://leetcode.com/problems/frog-position-after-t-seconds/,1377. Frog Position After T Seconds,36.0%,Hard
+27,https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/,1378. Replace Employee ID With The Unique Identifier,91.4%,Easy
+28,https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/,1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree,87.0%,Easy
+29,https://leetcode.com/problems/lucky-numbers-in-a-matrix/,1380. Lucky Numbers in a Matrix,70.5%,Easy
+30,https://leetcode.com/problems/design-a-stack-with-increment-operation/,1381. Design a Stack With Increment Operation,77.3%,Medium
+31,https://leetcode.com/problems/balance-a-binary-search-tree/,1382. Balance a Binary Search Tree,80.6%,Medium
+32,https://leetcode.com/problems/maximum-performance-of-a-team/,1383. Maximum Performance of a Team,48.9%,Hard
+33,https://leetcode.com/problems/total-sales-amount-by-year/,1384. Total Sales Amount by Year,67.6%,Hard
+34,https://leetcode.com/problems/find-the-distance-value-between-two-arrays/,1385. Find the Distance Value Between Two Arrays,65.4%,Easy
+35,https://leetcode.com/problems/cinema-seat-allocation/,1386. Cinema Seat Allocation,40.9%,Medium
+36,https://leetcode.com/problems/sort-integers-by-the-power-value/,1387. Sort Integers by The Power Value,70.0%,Medium
+37,https://leetcode.com/problems/pizza-with-3n-slices/,1388. Pizza With 3n Slices,50.1%,Hard
+38,https://leetcode.com/problems/create-target-array-in-the-given-order/,1389. Create Target Array in the Given Order,85.9%,Easy
+39,https://leetcode.com/problems/four-divisors/,1390. Four Divisors,41.2%,Medium
+40,https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/,1391. Check if There is a Valid Path in a Grid,47.1%,Medium
+41,https://leetcode.com/problems/longest-happy-prefix/,1392. Longest Happy Prefix,45.0%,Hard
+42,https://leetcode.com/problems/capital-gainloss/,1393. Capital Gain/Loss,90.8%,Medium
+43,https://leetcode.com/problems/find-lucky-integer-in-an-array/,1394. Find Lucky Integer in an Array,63.6%,Easy
+44,https://leetcode.com/problems/count-number-of-teams/,1395. Count Number of Teams,68.0%,Medium
+45,https://leetcode.com/problems/design-underground-system/,1396. Design Underground System,73.6%,Medium
+46,https://leetcode.com/problems/find-all-good-strings/,1397. Find All Good Strings,42.2%,Hard
+47,https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/,1398. Customers Who Bought Products A and B but Not C,77.6%,Medium
+48,https://leetcode.com/problems/count-largest-group/,1399. Count Largest Group,67.2%,Easy
+49,https://leetcode.com/problems/construct-k-palindrome-strings/,1400. Construct K Palindrome Strings,63.2%,Medium

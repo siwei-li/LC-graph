@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/find-a-peak-element-ii/,1901. Find a Peak Element II,53.2%,Medium
+1,https://leetcode.com/problems/depth-of-bst-given-insertion-order/,1902. Depth of BST Given Insertion Order,44.9%,Medium
+2,https://leetcode.com/problems/largest-odd-number-in-string/,1903. Largest Odd Number in String,55.7%,Easy
+3,https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/,1904. The Number of Full Rounds You Have Played,45.6%,Medium
+4,https://leetcode.com/problems/count-sub-islands/,1905. Count Sub Islands,67.7%,Medium
+5,https://leetcode.com/problems/minimum-absolute-difference-queries/,1906. Minimum Absolute Difference Queries,43.9%,Medium
+6,https://leetcode.com/problems/count-salary-categories/,1907. Count Salary Categories,64.4%,Medium
+7,https://leetcode.com/problems/game-of-nim/,1908. Game of Nim,56.8%,Medium
+8,https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/,1909. Remove One Element to Make the Array Strictly Increasing,26.1%,Easy
+9,https://leetcode.com/problems/remove-all-occurrences-of-a-substring/,1910. Remove All Occurrences of a Substring,74.2%,Medium
+10,https://leetcode.com/problems/maximum-alternating-subsequence-sum/,1911. Maximum Alternating Subsequence Sum,59.2%,Medium
+11,https://leetcode.com/problems/design-movie-rental-system/,1912. Design Movie Rental System,41.0%,Hard
+12,https://leetcode.com/problems/maximum-product-difference-between-two-pairs/,1913. Maximum Product Difference Between Two Pairs,81.3%,Easy
+13,https://leetcode.com/problems/cyclically-rotating-a-grid/,1914. Cyclically Rotating a Grid,48.1%,Medium
+14,https://leetcode.com/problems/number-of-wonderful-substrings/,1915. Number of Wonderful Substrings,45.0%,Medium
+15,https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/,1916. Count Ways to Build Rooms in an Ant Colony,49.3%,Hard
+16,https://leetcode.com/problems/leetcodify-friends-recommendations/,1917. Leetcodify Friends Recommendations,28.7%,Hard
+17,https://leetcode.com/problems/kth-smallest-subarray-sum/,1918. Kth Smallest Subarray Sum,53.0%,Medium
+18,https://leetcode.com/problems/leetcodify-similar-friends/,1919. Leetcodify Similar Friends,43.2%,Hard
+19,https://leetcode.com/problems/build-array-from-permutation/,1920. Build Array from Permutation,91.2%,Easy
+20,https://leetcode.com/problems/eliminate-maximum-number-of-monsters/,1921. Eliminate Maximum Number of Monsters,37.9%,Medium
+21,https://leetcode.com/problems/count-good-numbers/,1922. Count Good Numbers,38.5%,Medium
+22,https://leetcode.com/problems/longest-common-subpath/,1923. Longest Common Subpath,27.7%,Hard
+23,https://leetcode.com/problems/erect-the-fence-ii/,1924. Erect the Fence II,53.7%,Hard
+24,https://leetcode.com/problems/count-square-sum-triples/,1925. Count Square Sum Triples,67.9%,Easy
+25,https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/,1926. Nearest Exit from Entrance in Maze,49.3%,Medium
+26,https://leetcode.com/problems/sum-game/,1927. Sum Game,47.0%,Medium
+27,https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/,1928. Minimum Cost to Reach Destination in Time,37.4%,Hard
+28,https://leetcode.com/problems/concatenation-of-array/,1929. Concatenation of Array,91.2%,Easy
+29,https://leetcode.com/problems/unique-length-3-palindromic-subsequences/,1930. Unique Length-3 Palindromic Subsequences,51.6%,Medium
+30,https://leetcode.com/problems/painting-a-grid-with-three-different-colors/,1931. Painting a Grid With Three Different Colors,57.1%,Hard
+31,https://leetcode.com/problems/merge-bsts-to-create-single-bst/,1932. Merge BSTs to Create Single BST,35.3%,Hard
+32,https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/,1933. Check if String Is Decomposable Into Value-Equal Substrings,50.5%,Easy
+33,https://leetcode.com/problems/confirmation-rate/,1934. Confirmation Rate,77.8%,Medium
+34,https://leetcode.com/problems/maximum-number-of-words-you-can-type/,1935. Maximum Number of Words You Can Type,71.0%,Easy
+35,https://leetcode.com/problems/add-minimum-number-of-rungs/,1936. Add Minimum Number of Rungs,42.8%,Medium
+36,https://leetcode.com/problems/maximum-number-of-points-with-cost/,1937. Maximum Number of Points with Cost,36.2%,Medium
+37,https://leetcode.com/problems/maximum-genetic-difference-query/,1938. Maximum Genetic Difference Query,39.4%,Hard
+38,https://leetcode.com/problems/users-that-actively-request-confirmation-messages/,1939. Users That Actively Request Confirmation Messages,61.5%,Easy
+39,https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/,1940. Longest Common Subsequence Between Sorted Arrays,79.3%,Medium
+40,https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/,1941. Check if All Characters Have Equal Number of Occurrences,76.7%,Easy
+41,https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/,1942. The Number of the Smallest Unoccupied Chair,40.5%,Medium
+42,https://leetcode.com/problems/describe-the-painting/,1943. Describe the Painting,48.0%,Medium
+43,https://leetcode.com/problems/number-of-visible-people-in-a-queue/,1944. Number of Visible People in a Queue,69.7%,Hard
+44,https://leetcode.com/problems/sum-of-digits-of-string-after-convert/,1945. Sum of Digits of String After Convert,61.1%,Easy
+45,https://leetcode.com/problems/largest-number-after-mutating-substring/,1946. Largest Number After Mutating Substring,34.6%,Medium
+46,https://leetcode.com/problems/maximum-compatibility-score-sum/,1947. Maximum Compatibility Score Sum,60.9%,Medium
+47,https://leetcode.com/problems/delete-duplicate-folders-in-system/,1948. Delete Duplicate Folders in System,58.0%,Hard
+48,https://leetcode.com/problems/strong-friendship/,1949. Strong Friendship,58.3%,Medium
+49,https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/,1950. Maximum of Minimum Values in All Subarrays,50.2%,Medium

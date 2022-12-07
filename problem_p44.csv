@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/maximum-good-people-based-on-statements/,2151. Maximum Good People Based on Statements,48.6%,Hard
+1,https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/,2152. Minimum Number of Lines to Cover Points,46.7%,Medium
+2,https://leetcode.com/problems/the-number-of-passengers-in-each-bus-ii/,2153. The Number of Passengers in Each Bus II,50.2%,Hard
+3,https://leetcode.com/problems/keep-multiplying-found-values-by-two/,2154. Keep Multiplying Found Values by Two,73.1%,Easy
+4,https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/,2155. All Divisions With the Highest Score of a Binary Array,63.4%,Medium
+5,https://leetcode.com/problems/find-substring-with-given-hash-value/,2156. Find Substring With Given Hash Value,22.1%,Hard
+6,https://leetcode.com/problems/groups-of-strings/,2157. Groups of Strings,25.3%,Hard
+7,https://leetcode.com/problems/amount-of-new-area-painted-each-day/,2158. Amount of New Area Painted Each Day,55.0%,Hard
+8,https://leetcode.com/problems/order-two-columns-independently/,2159. Order Two Columns Independently,63.3%,Medium
+9,https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/,2160. Minimum Sum of Four Digit Number After Splitting Digits,87.9%,Easy
+10,https://leetcode.com/problems/partition-array-according-to-given-pivot/,2161. Partition Array According to Given Pivot,84.5%,Medium
+11,https://leetcode.com/problems/minimum-cost-to-set-cooking-time/,2162. Minimum Cost to Set Cooking Time,39.5%,Medium
+12,https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/,2163. Minimum Difference in Sums After Removal of Elements,46.6%,Hard
+13,https://leetcode.com/problems/sort-even-and-odd-indices-independently/,2164. Sort Even and Odd Indices Independently,66.5%,Easy
+14,https://leetcode.com/problems/smallest-value-of-the-rearranged-number/,2165. Smallest Value of the Rearranged Number,51.3%,Medium
+15,https://leetcode.com/problems/design-bitset/,2166. Design Bitset,31.5%,Medium
+16,https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/,2167. Minimum Time to Remove All Cars Containing Illegal Goods,40.2%,Hard
+17,https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/,2168. Unique Substrings With Equal Digit Frequency,59.6%,Medium
+18,https://leetcode.com/problems/count-operations-to-obtain-zero/,2169. Count Operations to Obtain Zero,75.5%,Easy
+19,https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/,2170. Minimum Operations to Make the Array Alternating,33.2%,Medium
+20,https://leetcode.com/problems/removing-minimum-number-of-magic-beans/,2171. Removing Minimum Number of Magic Beans,42.0%,Medium
+21,https://leetcode.com/problems/maximum-and-sum-of-array/,2172. Maximum AND Sum of Array,47.4%,Hard
+22,https://leetcode.com/problems/longest-winning-streak/,2173. Longest Winning Streak,58.8%,Hard
+23,https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/,2174. Remove All Ones With Row and Column Flips II,68.8%,Medium
+24,https://leetcode.com/problems/the-change-in-global-rankings/,2175. The Change in Global Rankings,68.3%,Medium
+25,https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/,2176. Count Equal and Divisible Pairs in an Array,80.3%,Easy
+26,https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/,2177. Find Three Consecutive Integers That Sum to a Given Number,63.7%,Medium
+27,https://leetcode.com/problems/maximum-split-of-positive-even-integers/,2178. Maximum Split of Positive Even Integers,59.1%,Medium
+28,https://leetcode.com/problems/count-good-triplets-in-an-array/,2179. Count Good Triplets in an Array,37.1%,Hard
+29,https://leetcode.com/problems/count-integers-with-even-digit-sum/,2180. Count Integers With Even Digit Sum,64.5%,Easy
+30,https://leetcode.com/problems/merge-nodes-in-between-zeros/,2181. Merge Nodes in Between Zeros,86.7%,Medium
+31,https://leetcode.com/problems/construct-string-with-repeat-limit/,2182. Construct String With Repeat Limit,51.9%,Medium
+32,https://leetcode.com/problems/count-array-pairs-divisible-by-k/,2183. Count Array Pairs Divisible by K,28.7%,Hard
+33,https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/,2184. Number of Ways to Build Sturdy Brick Wall,51.6%,Medium
+34,https://leetcode.com/problems/counting-words-with-a-given-prefix/,2185. Counting Words With a Given Prefix,77.0%,Easy
+35,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/,2186. Minimum Number of Steps to Make Two Strings Anagram II,71.9%,Medium
+36,https://leetcode.com/problems/minimum-time-to-complete-trips/,2187. Minimum Time to Complete Trips,32.0%,Medium
+37,https://leetcode.com/problems/minimum-time-to-finish-the-race/,2188. Minimum Time to Finish the Race,41.9%,Hard
+38,https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/,2189. Number of Ways to Build House of Cards,63.0%,Medium
+39,https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/,2190. Most Frequent Number Following Key In an Array,60.4%,Easy
+40,https://leetcode.com/problems/sort-the-jumbled-numbers/,2191. Sort the Jumbled Numbers,45.3%,Medium
+41,https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/,2192. All Ancestors of a Node in a Directed Acyclic Graph,50.2%,Medium
+42,https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/,2193. Minimum Number of Moves to Make Palindrome,51.4%,Hard
+43,https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/,2194. Cells in a Range on an Excel Sheet,85.6%,Easy
+44,https://leetcode.com/problems/append-k-integers-with-minimal-sum/,2195. Append K Integers With Minimal Sum,25.0%,Medium
+45,https://leetcode.com/problems/create-binary-tree-from-descriptions/,2196. Create Binary Tree From Descriptions,72.1%,Medium
+46,https://leetcode.com/problems/replace-non-coprime-numbers-in-array/,2197. Replace Non-Coprime Numbers in Array,38.7%,Hard
+47,https://leetcode.com/problems/number-of-single-divisor-triplets/,2198. Number of Single Divisor Triplets,55.9%,Medium
+48,https://leetcode.com/problems/finding-the-topic-of-each-post/,2199. Finding the Topic of Each Post,49.5%,Hard
+49,https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/,2200. Find All K-Distant Indices in an Array,64.6%,Easy

@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/detonate-the-maximum-bombs/,2101. Detonate the Maximum Bombs,41.3%,Medium
+1,https://leetcode.com/problems/sequentially-ordinal-rank-tracker/,2102. Sequentially Ordinal Rank Tracker,66.3%,Hard
+2,https://leetcode.com/problems/rings-and-rods/,2103. Rings and Rods,81.4%,Easy
+3,https://leetcode.com/problems/sum-of-subarray-ranges/,2104. Sum of Subarray Ranges,60.2%,Medium
+4,https://leetcode.com/problems/watering-plants-ii/,2105. Watering Plants II,50.1%,Medium
+5,https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/,2106. Maximum Fruits Harvested After at Most K Steps,35.1%,Hard
+6,https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies/,2107. Number of Unique Flavors After Sharing K Candies,57.0%,Medium
+7,https://leetcode.com/problems/find-first-palindromic-string-in-the-array/,2108. Find First Palindromic String in the Array,78.6%,Easy
+8,https://leetcode.com/problems/adding-spaces-to-a-string/,2109. Adding Spaces to a String,56.3%,Medium
+9,https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/,2110. Number of Smooth Descent Periods of a Stock,57.6%,Medium
+10,https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/,2111. Minimum Operations to Make the Array K-Increasing,37.8%,Hard
+11,https://leetcode.com/problems/the-airport-with-the-most-traffic/,2112. The Airport With the Most Traffic,71.2%,Medium
+12,https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements/,2113. Elements in Array After Removing and Replacing Elements,73.2%,Medium
+13,https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/,2114. Maximum Number of Words Found in Sentences,88.1%,Easy
+14,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/,2115. Find All Possible Recipes from Given Supplies,48.5%,Medium
+15,https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/,2116. Check if a Parentheses String Can Be Valid,31.5%,Medium
+16,https://leetcode.com/problems/abbreviating-the-product-of-a-range/,2117. Abbreviating the Product of a Range,28.1%,Hard
+17,https://leetcode.com/problems/build-the-equation/,2118. Build the Equation,56.6%,Hard
+18,https://leetcode.com/problems/a-number-after-a-double-reversal/,2119. A Number After a Double Reversal,75.8%,Easy
+19,https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/,2120. Execution of All Suffix Instructions Staying in a Grid,83.6%,Medium
+20,https://leetcode.com/problems/intervals-between-identical-elements/,2121. Intervals Between Identical Elements,43.3%,Medium
+21,https://leetcode.com/problems/recover-the-original-array/,2122. Recover the Original Array,38.1%,Hard
+22,https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix/,2123. Minimum Operations to Remove Adjacent Ones in Matrix,41.3%,Hard
+23,https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/,2124. Check if All A's Appears Before All B's,71.6%,Easy
+24,https://leetcode.com/problems/number-of-laser-beams-in-a-bank/,2125. Number of Laser Beams in a Bank,82.6%,Medium
+25,https://leetcode.com/problems/destroying-asteroids/,2126. Destroying Asteroids,49.5%,Medium
+26,https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/,2127. Maximum Employees to Be Invited to a Meeting,33.6%,Hard
+27,https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/,2128. Remove All Ones With Row and Column Flips,76.4%,Medium
+28,https://leetcode.com/problems/capitalize-the-title/,2129. Capitalize the Title,60.3%,Easy
+29,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/,2130. Maximum Twin Sum of a Linked List,81.4%,Medium
+30,https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/,2131. Longest Palindrome by Concatenating Two Letter Words,49.1%,Medium
+31,https://leetcode.com/problems/stamping-the-grid/,2132. Stamping the Grid,30.9%,Hard
+32,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/,2133. Check if Every Row and Column Contains All Numbers,52.8%,Easy
+33,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/,2134. Minimum Swaps to Group All 1's Together II,50.7%,Medium
+34,https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/,2135. Count Words Obtained After Adding a Letter,42.8%,Medium
+35,https://leetcode.com/problems/earliest-possible-day-of-full-bloom/,2136. Earliest Possible Day of Full Bloom,74.9%,Hard
+36,https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal/,2137. Pour Water Between Buckets to Make Water Levels Equal,67.3%,Medium
+37,https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/,2138. Divide a String Into Groups of Size k,65.2%,Easy
+38,https://leetcode.com/problems/minimum-moves-to-reach-target-score/,2139. Minimum Moves to Reach Target Score,48.4%,Medium
+39,https://leetcode.com/problems/solving-questions-with-brainpower/,2140. Solving Questions With Brainpower,46.0%,Medium
+40,https://leetcode.com/problems/maximum-running-time-of-n-computers/,2141. Maximum Running Time of N Computers,38.9%,Hard
+41,https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i/,2142. The Number of Passengers in Each Bus I,51.0%,Medium
+42,https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range/,2143. Choose Numbers From Two Arrays in Range,52.0%,Hard
+43,https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/,2144. Minimum Cost of Buying Candies With Discount,60.9%,Easy
+44,https://leetcode.com/problems/count-the-hidden-sequences/,2145. Count the Hidden Sequences,36.5%,Medium
+45,https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/,2146. K Highest Ranked Items Within a Price Range,41.2%,Medium
+46,https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/,2147. Number of Ways to Divide a Long Corridor,39.9%,Hard
+47,https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/,2148. Count Elements With Strictly Smaller and Greater Elements,60.0%,Easy
+48,https://leetcode.com/problems/rearrange-array-elements-by-sign/,2149. Rearrange Array Elements by Sign,81.0%,Medium
+49,https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/,2150. Find All Lonely Numbers in the Array,60.8%,Medium

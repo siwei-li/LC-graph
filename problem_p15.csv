@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/insert-into-a-binary-search-tree/,701. Insert into a Binary Search Tree,74.6%,Medium
+1,https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/,702. Search in a Sorted Array of Unknown Size,71.3%,Medium
+2,https://leetcode.com/problems/kth-largest-element-in-a-stream/,703. Kth Largest Element in a Stream,55.5%,Easy
+3,https://leetcode.com/problems/binary-search/,704. Binary Search,55.1%,Easy
+4,https://leetcode.com/problems/design-hashset/,705. Design HashSet,65.9%,Easy
+5,https://leetcode.com/problems/design-hashmap/,706. Design HashMap,65.0%,Easy
+6,https://leetcode.com/problems/design-linked-list/,707. Design Linked List,27.5%,Medium
+7,https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/,708. Insert into a Sorted Circular Linked List,34.5%,Medium
+8,https://leetcode.com/problems/to-lower-case/,709. To Lower Case,82.0%,Easy
+9,https://leetcode.com/problems/random-pick-with-blacklist/,710. Random Pick with Blacklist,33.6%,Hard
+10,https://leetcode.com/problems/number-of-distinct-islands-ii/,711. Number of Distinct Islands II,51.9%,Hard
+11,https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/,712. Minimum ASCII Delete Sum for Two Strings,62.3%,Medium
+12,https://leetcode.com/problems/subarray-product-less-than-k/,713. Subarray Product Less Than K,45.2%,Medium
+13,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/,714. Best Time to Buy and Sell Stock with Transaction Fee,64.4%,Medium
+14,https://leetcode.com/problems/range-module/,715. Range Module,44.7%,Hard
+15,https://leetcode.com/problems/max-stack/,716. Max Stack,45.3%,Hard
+16,https://leetcode.com/problems/1-bit-and-2-bit-characters/,717. 1-bit and 2-bit Characters,46.0%,Easy
+17,https://leetcode.com/problems/maximum-length-of-repeated-subarray/,718. Maximum Length of Repeated Subarray,51.5%,Medium
+18,https://leetcode.com/problems/find-k-th-smallest-pair-distance/,719. Find K-th Smallest Pair Distance,36.4%,Hard
+19,https://leetcode.com/problems/longest-word-in-dictionary/,720. Longest Word in Dictionary,51.8%,Medium
+20,https://leetcode.com/problems/accounts-merge/,721. Accounts Merge,56.3%,Medium
+21,https://leetcode.com/problems/remove-comments/,722. Remove Comments,38.0%,Medium
+22,https://leetcode.com/problems/candy-crush/,723. Candy Crush,76.5%,Medium
+23,https://leetcode.com/problems/find-pivot-index/,724. Find Pivot Index,53.5%,Easy
+24,https://leetcode.com/problems/split-linked-list-in-parts/,725. Split Linked List in Parts,57.2%,Medium
+25,https://leetcode.com/problems/number-of-atoms/,726. Number of Atoms,52.2%,Hard
+26,https://leetcode.com/problems/minimum-window-subsequence/,727. Minimum Window Subsequence,42.8%,Hard
+27,https://leetcode.com/problems/self-dividing-numbers/,728. Self Dividing Numbers,77.6%,Easy
+28,https://leetcode.com/problems/my-calendar-i/,729. My Calendar I,57.2%,Medium
+29,https://leetcode.com/problems/count-different-palindromic-subsequences/,730. Count Different Palindromic Subsequences,44.5%,Hard
+30,https://leetcode.com/problems/my-calendar-ii/,731. My Calendar II,54.8%,Medium
+31,https://leetcode.com/problems/my-calendar-iii/,732. My Calendar III,71.6%,Hard
+32,https://leetcode.com/problems/flood-fill/,733. Flood Fill,60.7%,Easy
+33,https://leetcode.com/problems/sentence-similarity/,734. Sentence Similarity,43.1%,Easy
+34,https://leetcode.com/problems/asteroid-collision/,735. Asteroid Collision,44.4%,Medium
+35,https://leetcode.com/problems/parse-lisp-expression/,736. Parse Lisp Expression,51.5%,Hard
+36,https://leetcode.com/problems/sentence-similarity-ii/,737. Sentence Similarity II,48.8%,Medium
+37,https://leetcode.com/problems/monotone-increasing-digits/,738. Monotone Increasing Digits,47.1%,Medium
+38,https://leetcode.com/problems/daily-temperatures/,739. Daily Temperatures,66.6%,Medium
+39,https://leetcode.com/problems/delete-and-earn/,740. Delete and Earn,57.3%,Medium
+40,https://leetcode.com/problems/cherry-pickup/,741. Cherry Pickup,36.3%,Hard
+41,https://leetcode.com/problems/closest-leaf-in-a-binary-tree/,742. Closest Leaf in a Binary Tree,45.8%,Medium
+42,https://leetcode.com/problems/network-delay-time/,743. Network Delay Time,51.5%,Medium
+43,https://leetcode.com/problems/find-smallest-letter-greater-than-target/,744. Find Smallest Letter Greater Than Target,44.8%,Easy
+44,https://leetcode.com/problems/prefix-and-suffix-search/,745. Prefix and Suffix Search,41.3%,Hard
+45,https://leetcode.com/problems/min-cost-climbing-stairs/,746. Min Cost Climbing Stairs,62.5%,Easy
+46,https://leetcode.com/problems/largest-number-at-least-twice-of-others/,747. Largest Number At Least Twice of Others,46.4%,Easy
+47,https://leetcode.com/problems/shortest-completing-word/,748. Shortest Completing Word,59.1%,Easy
+48,https://leetcode.com/problems/contain-virus/,749. Contain Virus,50.9%,Hard
+49,https://leetcode.com/problems/number-of-corner-rectangles/,750. Number Of Corner Rectangles,67.4%,Medium

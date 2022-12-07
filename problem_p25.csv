@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/ugly-number-iii/,1201. Ugly Number III,28.5%,Medium
+1,https://leetcode.com/problems/smallest-string-with-swaps/,1202. Smallest String With Swaps,57.6%,Medium
+2,https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/,1203. Sort Items by Groups Respecting Dependencies,50.6%,Hard
+3,https://leetcode.com/problems/last-person-to-fit-in-the-bus/,1204. Last Person to Fit in the Bus,74.2%,Medium
+4,https://leetcode.com/problems/monthly-transactions-ii/,1205. Monthly Transactions II,43.8%,Medium
+5,https://leetcode.com/problems/design-skiplist/,1206. Design Skiplist,60.6%,Hard
+6,https://leetcode.com/problems/unique-number-of-occurrences/,1207. Unique Number of Occurrences,70.9%,Easy
+7,https://leetcode.com/problems/get-equal-substrings-within-budget/,1208. Get Equal Substrings Within Budget,47.8%,Medium
+8,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/,1209. Remove All Adjacent Duplicates in String II,56.0%,Medium
+9,https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/,1210. Minimum Moves to Reach Target with Rotations,49.0%,Hard
+10,https://leetcode.com/problems/queries-quality-and-percentage/,1211. Queries Quality and Percentage,71.9%,Easy
+11,https://leetcode.com/problems/team-scores-in-football-tournament/,1212. Team Scores in Football Tournament,57.6%,Medium
+12,https://leetcode.com/problems/intersection-of-three-sorted-arrays/,1213. Intersection of Three Sorted Arrays,79.9%,Easy
+13,https://leetcode.com/problems/two-sum-bsts/,1214. Two Sum BSTs,66.0%,Medium
+14,https://leetcode.com/problems/stepping-numbers/,1215. Stepping Numbers,45.9%,Medium
+15,https://leetcode.com/problems/valid-palindrome-iii/,1216. Valid Palindrome III,50.1%,Hard
+16,https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/,1217. Minimum Cost to Move Chips to The Same Position,72.2%,Easy
+17,https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/,1218. Longest Arithmetic Subsequence of Given Difference,51.8%,Medium
+18,https://leetcode.com/problems/path-with-maximum-gold/,1219. Path with Maximum Gold,64.0%,Medium
+19,https://leetcode.com/problems/count-vowels-permutation/,1220. Count Vowels Permutation,60.6%,Hard
+20,https://leetcode.com/problems/split-a-string-in-balanced-strings/,1221. Split a String in Balanced Strings,84.8%,Easy
+21,https://leetcode.com/problems/queens-that-can-attack-the-king/,1222. Queens That Can Attack the King,71.8%,Medium
+22,https://leetcode.com/problems/dice-roll-simulation/,1223. Dice Roll Simulation,48.4%,Hard
+23,https://leetcode.com/problems/maximum-equal-frequency/,1224. Maximum Equal Frequency,37.1%,Hard
+24,https://leetcode.com/problems/report-contiguous-dates/,1225. Report Contiguous Dates,63.3%,Hard
+25,https://leetcode.com/problems/the-dining-philosophers/,1226. The Dining Philosophers,56.6%,Medium
+26,https://leetcode.com/problems/airplane-seat-assignment-probability/,1227. Airplane Seat Assignment Probability,64.9%,Medium
+27,https://leetcode.com/problems/missing-number-in-arithmetic-progression/,1228. Missing Number In Arithmetic Progression,51.4%,Easy
+28,https://leetcode.com/problems/meeting-scheduler/,1229. Meeting Scheduler,55.3%,Medium
+29,https://leetcode.com/problems/toss-strange-coins/,1230. Toss Strange Coins,53.5%,Medium
+30,https://leetcode.com/problems/divide-chocolate/,1231. Divide Chocolate,56.9%,Hard
+31,https://leetcode.com/problems/check-if-it-is-a-straight-line/,1232. Check If It Is a Straight Line,41.0%,Easy
+32,https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/,1233. Remove Sub-Folders from the Filesystem,65.4%,Medium
+33,https://leetcode.com/problems/replace-the-substring-for-balanced-string/,1234. Replace the Substring for Balanced String,36.9%,Medium
+34,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,1235. Maximum Profit in Job Scheduling,51.2%,Hard
+35,https://leetcode.com/problems/web-crawler/,1236. Web Crawler,66.3%,Medium
+36,https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/,1237. Find Positive Integer Solution for a Given Equation,69.3%,Medium
+37,https://leetcode.com/problems/circular-permutation-in-binary-representation/,1238. Circular Permutation in Binary Representation,68.9%,Medium
+38,https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/,1239. Maximum Length of a Concatenated String with Unique Characters,52.2%,Medium
+39,https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/,1240. Tiling a Rectangle with the Fewest Squares,53.9%,Hard
+40,https://leetcode.com/problems/number-of-comments-per-post/,1241. Number of Comments per Post,67.7%,Easy
+41,https://leetcode.com/problems/web-crawler-multithreaded/,1242. Web Crawler Multithreaded,49.1%,Medium
+42,https://leetcode.com/problems/array-transformation/,1243. Array Transformation,50.7%,Easy
+43,https://leetcode.com/problems/design-a-leaderboard/,1244. Design A Leaderboard,68.9%,Medium
+44,https://leetcode.com/problems/tree-diameter/,1245. Tree Diameter,61.6%,Medium
+45,https://leetcode.com/problems/palindrome-removal/,1246. Palindrome Removal,46.0%,Hard
+46,https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/,1247. Minimum Swaps to Make Strings Equal,63.8%,Medium
+47,https://leetcode.com/problems/count-number-of-nice-subarrays/,1248. Count Number of Nice Subarrays,59.7%,Medium
+48,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/,1249. Minimum Remove to Make Valid Parentheses,65.7%,Medium
+49,https://leetcode.com/problems/check-if-it-is-a-good-array/,1250. Check If It Is a Good Array,58.9%,Hard

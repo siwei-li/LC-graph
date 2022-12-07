@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/flip-equivalent-binary-trees/,951. Flip Equivalent Binary Trees,66.8%,Medium
+1,https://leetcode.com/problems/largest-component-size-by-common-factor/,952. Largest Component Size by Common Factor,40.3%,Hard
+2,https://leetcode.com/problems/verifying-an-alien-dictionary/,953. Verifying an Alien Dictionary,52.7%,Easy
+3,https://leetcode.com/problems/array-of-doubled-pairs/,954. Array of Doubled Pairs,39.1%,Medium
+4,https://leetcode.com/problems/delete-columns-to-make-sorted-ii/,955. Delete Columns to Make Sorted II,34.6%,Medium
+5,https://leetcode.com/problems/tallest-billboard/,956. Tallest Billboard,39.9%,Hard
+6,https://leetcode.com/problems/prison-cells-after-n-days/,957. Prison Cells After N Days,39.1%,Medium
+7,https://leetcode.com/problems/check-completeness-of-a-binary-tree/,958. Check Completeness of a Binary Tree,53.8%,Medium
+8,https://leetcode.com/problems/regions-cut-by-slashes/,959. Regions Cut By Slashes,69.1%,Medium
+9,https://leetcode.com/problems/delete-columns-to-make-sorted-iii/,960. Delete Columns to Make Sorted III,57.1%,Hard
+10,https://leetcode.com/problems/n-repeated-element-in-size-2n-array/,961. N-Repeated Element in Size 2N Array,75.9%,Easy
+11,https://leetcode.com/problems/maximum-width-ramp/,962. Maximum Width Ramp,49.0%,Medium
+12,https://leetcode.com/problems/minimum-area-rectangle-ii/,963. Minimum Area Rectangle II,54.7%,Medium
+13,https://leetcode.com/problems/least-operators-to-express-number/,964. Least Operators to Express Number,47.9%,Hard
+14,https://leetcode.com/problems/univalued-binary-tree/,965. Univalued Binary Tree,69.3%,Easy
+15,https://leetcode.com/problems/vowel-spellchecker/,966. Vowel Spellchecker,51.4%,Medium
+16,https://leetcode.com/problems/numbers-with-same-consecutive-differences/,967. Numbers With Same Consecutive Differences,57.1%,Medium
+17,https://leetcode.com/problems/binary-tree-cameras/,968. Binary Tree Cameras,46.8%,Hard
+18,https://leetcode.com/problems/pancake-sorting/,969. Pancake Sorting,70.0%,Medium
+19,https://leetcode.com/problems/powerful-integers/,970. Powerful Integers,43.6%,Medium
+20,https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/,971. Flip Binary Tree To Match Preorder Traversal,49.9%,Medium
+21,https://leetcode.com/problems/equal-rational-numbers/,972. Equal Rational Numbers,43.0%,Hard
+22,https://leetcode.com/problems/k-closest-points-to-origin/,973. K Closest Points to Origin,65.8%,Medium
+23,https://leetcode.com/problems/subarray-sums-divisible-by-k/,974. Subarray Sums Divisible by K,53.6%,Medium
+24,https://leetcode.com/problems/odd-even-jump/,975. Odd Even Jump,38.9%,Hard
+25,https://leetcode.com/problems/largest-perimeter-triangle/,976. Largest Perimeter Triangle,54.5%,Easy
+26,https://leetcode.com/problems/squares-of-a-sorted-array/,977. Squares of a Sorted Array,71.9%,Easy
+27,https://leetcode.com/problems/longest-turbulent-subarray/,978. Longest Turbulent Subarray,47.4%,Medium
+28,https://leetcode.com/problems/distribute-coins-in-binary-tree/,979. Distribute Coins in Binary Tree,72.1%,Medium
+29,https://leetcode.com/problems/unique-paths-iii/,980. Unique Paths III,79.7%,Hard
+30,https://leetcode.com/problems/time-based-key-value-store/,981. Time Based Key-Value Store,53.4%,Medium
+31,https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/,982. Triples with Bitwise AND Equal To Zero,57.7%,Hard
+32,https://leetcode.com/problems/minimum-cost-for-tickets/,983. Minimum Cost For Tickets,64.4%,Medium
+33,https://leetcode.com/problems/string-without-aaa-or-bbb/,984. String Without AAA or BBB,43.0%,Medium
+34,https://leetcode.com/problems/sum-of-even-numbers-after-queries/,985. Sum of Even Numbers After Queries,68.2%,Medium
+35,https://leetcode.com/problems/interval-list-intersections/,986. Interval List Intersections,71.4%,Medium
+36,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/,987. Vertical Order Traversal of a Binary Tree,44.7%,Hard
+37,https://leetcode.com/problems/smallest-string-starting-from-leaf/,988. Smallest String Starting From Leaf,49.7%,Medium
+38,https://leetcode.com/problems/add-to-array-form-of-integer/,989. Add to Array-Form of Integer,45.5%,Easy
+39,https://leetcode.com/problems/satisfiability-of-equality-equations/,990. Satisfiability of Equality Equations,50.7%,Medium
+40,https://leetcode.com/problems/broken-calculator/,991. Broken Calculator,54.1%,Medium
+41,https://leetcode.com/problems/subarrays-with-k-different-integers/,992. Subarrays with K Different Integers,54.4%,Hard
+42,https://leetcode.com/problems/cousins-in-binary-tree/,993. Cousins in Binary Tree,54.2%,Easy
+43,https://leetcode.com/problems/rotting-oranges/,994. Rotting Oranges,52.5%,Medium
+44,https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/,995. Minimum Number of K Consecutive Bit Flips,51.2%,Hard
+45,https://leetcode.com/problems/number-of-squareful-arrays/,996. Number of Squareful Arrays,49.2%,Hard
+46,https://leetcode.com/problems/find-the-town-judge/,997. Find the Town Judge,49.3%,Easy
+47,https://leetcode.com/problems/maximum-binary-tree-ii/,998. Maximum Binary Tree II,66.5%,Medium
+48,https://leetcode.com/problems/available-captures-for-rook/,999. Available Captures for Rook,67.9%,Easy
+49,https://leetcode.com/problems/minimum-cost-to-merge-stones/,1000. Minimum Cost to Merge Stones,42.3%,Hard

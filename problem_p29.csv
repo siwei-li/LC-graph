@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/circle-and-rectangle-overlapping/,1401. Circle and Rectangle Overlapping,44.2%,Medium
+1,https://leetcode.com/problems/reducing-dishes/,1402. Reducing Dishes,72.0%,Hard
+2,https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/,1403. Minimum Subsequence in Non-Increasing Order,72.1%,Easy
+3,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/,1404. Number of Steps to Reduce a Number in Binary Representation to One,52.1%,Medium
+4,https://leetcode.com/problems/longest-happy-string/,1405. Longest Happy String,57.4%,Medium
+5,https://leetcode.com/problems/stone-game-iii/,1406. Stone Game III,59.7%,Hard
+6,https://leetcode.com/problems/top-travellers/,1407. Top Travellers,67.3%,Easy
+7,https://leetcode.com/problems/string-matching-in-an-array/,1408. String Matching in an Array,63.9%,Easy
+8,https://leetcode.com/problems/queries-on-a-permutation-with-key/,1409. Queries on a Permutation With Key,83.3%,Medium
+9,https://leetcode.com/problems/html-entity-parser/,1410. HTML Entity Parser,52.0%,Medium
+10,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/,1411. Number of Ways to Paint N × 3 Grid,62.3%,Hard
+11,https://leetcode.com/problems/find-the-quiet-students-in-all-exams/,1412. Find the Quiet Students in All Exams,63.0%,Hard
+12,https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/,1413. Minimum Value to Get Positive Step by Step Sum,68.0%,Easy
+13,https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/,1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K,65.4%,Medium
+14,https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/,1415. The k-th Lexicographical String of All Happy Strings of Length n,72.1%,Medium
+15,https://leetcode.com/problems/restore-the-array/,1416. Restore The Array,38.8%,Hard
+16,https://leetcode.com/problems/reformat-the-string/,1417. Reformat The String,55.6%,Easy
+17,https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/,1418. Display Table of Food Orders in a Restaurant,73.8%,Medium
+18,https://leetcode.com/problems/minimum-number-of-frogs-croaking/,1419. Minimum Number of Frogs Croaking,50.1%,Medium
+19,https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/,1420. Build Array Where You Can Find The Maximum Exactly K Comparisons,63.5%,Hard
+20,https://leetcode.com/problems/npv-queries/,1421. NPV Queries,84.2%,Easy
+21,https://leetcode.com/problems/maximum-score-after-splitting-a-string/,1422. Maximum Score After Splitting a String,57.8%,Easy
+22,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/,1423. Maximum Points You Can Obtain from Cards,52.3%,Medium
+23,https://leetcode.com/problems/diagonal-traverse-ii/,1424. Diagonal Traverse II,50.4%,Medium
+24,https://leetcode.com/problems/constrained-subsequence-sum/,1425. Constrained Subsequence Sum,47.4%,Hard
+25,https://leetcode.com/problems/counting-elements/,1426. Counting Elements,59.6%,Easy
+26,https://leetcode.com/problems/perform-string-shifts/,1427. Perform String Shifts,54.2%,Easy
+27,https://leetcode.com/problems/leftmost-column-with-at-least-a-one/,1428. Leftmost Column with at Least a One,53.0%,Medium
+28,https://leetcode.com/problems/first-unique-number/,1429. First Unique Number,52.8%,Medium
+29,https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/,1430. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree,46.2%,Medium
+30,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/,1431. Kids With the Greatest Number of Candies,87.5%,Easy
+31,https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/,1432. Max Difference You Can Get From Changing an Integer,42.9%,Medium
+32,https://leetcode.com/problems/check-if-a-string-can-break-another-string/,1433. Check If a String Can Break Another String,68.9%,Medium
+33,https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/,1434. Number of Ways to Wear Different Hats to Each Other,42.9%,Hard
+34,https://leetcode.com/problems/create-a-session-bar-chart/,1435. Create a Session Bar Chart,78.1%,Easy
+35,https://leetcode.com/problems/destination-city/,1436. Destination City,77.6%,Easy
+36,https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/,1437. Check If All 1's Are at Least Length K Places Away,59.1%,Easy
+37,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/,1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,48.0%,Medium
+38,https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/,1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows,61.4%,Hard
+39,https://leetcode.com/problems/evaluate-boolean-expression/,1440. Evaluate Boolean Expression,76.4%,Medium
+40,https://leetcode.com/problems/build-an-array-with-stack-operations/,1441. Build an Array With Stack Operations,71.4%,Medium
+41,https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/,1442. Count Triplets That Can Form Two Arrays of Equal XOR,75.6%,Medium
+42,https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/,1443. Minimum Time to Collect All Apples in a Tree,56.0%,Medium
+43,https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/,1444. Number of Ways of Cutting a Pizza,57.9%,Hard
+44,https://leetcode.com/problems/apples-oranges/,1445. Apples & Oranges,91.3%,Medium
+45,https://leetcode.com/problems/consecutive-characters/,1446. Consecutive Characters,61.6%,Easy
+46,https://leetcode.com/problems/simplified-fractions/,1447. Simplified Fractions,64.8%,Medium
+47,https://leetcode.com/problems/count-good-nodes-in-binary-tree/,1448. Count Good Nodes in Binary Tree,74.6%,Medium
+48,https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/,1449. Form Largest Integer With Digits That Add up to Target,47.2%,Hard
+49,https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/,1450. Number of Students Doing Homework at a Given Time,75.9%,Easy
