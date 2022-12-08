@@ -1,0 +1,51 @@
+,0,1,2,3
+0,https://leetcode.com/problems/countries-you-can-safely-invest-in/,1501. Countries You Can Safely Invest In,58.1%,Medium
+1,https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/,1502. Can Make Arithmetic Progression From Sequence,68.1%,Easy
+2,https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/,1503. Last Moment Before All Ants Fall Out of a Plank,55.3%,Medium
+3,https://leetcode.com/problems/count-submatrices-with-all-ones/,1504. Count Submatrices With All Ones,57.8%,Medium
+4,https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/,1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits,38.3%,Hard
+5,https://leetcode.com/problems/find-root-of-n-ary-tree/,1506. Find Root of N-Ary Tree,78.3%,Medium
+6,https://leetcode.com/problems/reformat-date/,1507. Reformat Date,62.5%,Easy
+7,https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/,1508. Range Sum of Sorted Subarray Sums,59.3%,Medium
+8,https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/,1509. Minimum Difference Between Largest and Smallest Value in Three Moves,54.6%,Medium
+9,https://leetcode.com/problems/stone-game-iv/,1510. Stone Game IV,60.5%,Hard
+10,https://leetcode.com/problems/customer-order-frequency/,1511. Customer Order Frequency,73.1%,Easy
+11,https://leetcode.com/problems/number-of-good-pairs/,1512. Number of Good Pairs,88.2%,Easy
+12,https://leetcode.com/problems/number-of-substrings-with-only-1s/,1513. Number of Substrings With Only 1s,45.4%,Medium
+13,https://leetcode.com/problems/path-with-maximum-probability/,1514. Path with Maximum Probability,48.4%,Medium
+14,https://leetcode.com/problems/best-position-for-a-service-centre/,1515. Best Position for a Service Centre,37.8%,Hard
+15,https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/,1516. Move Sub-Tree of N-Ary Tree,63.8%,Hard
+16,https://leetcode.com/problems/find-users-with-valid-e-mails/,1517. Find Users With Valid E-Mails,56.5%,Easy
+17,https://leetcode.com/problems/water-bottles/,1518. Water Bottles,60.2%,Easy
+18,https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/,1519. Number of Nodes in the Sub-Tree With the Same Label,41.0%,Medium
+19,https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/,1520. Maximum Number of Non-Overlapping Substrings,38.1%,Hard
+20,https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/,1521. Find a Value of a Mysterious Function Closest to Target,43.6%,Hard
+21,https://leetcode.com/problems/diameter-of-n-ary-tree/,1522. Diameter of N-Ary Tree,73.5%,Medium
+22,https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/,1523. Count Odd Numbers in an Interval Range,46.2%,Easy
+23,https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/,1524. Number of Sub-arrays With Odd Sum,43.6%,Medium
+24,https://leetcode.com/problems/number-of-good-ways-to-split-a-string/,1525. Number of Good Ways to Split a String,69.4%,Medium
+25,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/,1526. Minimum Number of Increments on Subarrays to Form a Target Array,68.6%,Hard
+26,https://leetcode.com/problems/patients-with-a-condition/,1527. Patients With a Condition,42.7%,Easy
+27,https://leetcode.com/problems/shuffle-string/,1528. Shuffle String,85.7%,Easy
+28,https://leetcode.com/problems/minimum-suffix-flips/,1529. Minimum Suffix Flips,72.4%,Medium
+29,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/,1530. Number of Good Leaf Nodes Pairs,60.7%,Medium
+30,https://leetcode.com/problems/string-compression-ii/,1531. String Compression II,49.9%,Hard
+31,https://leetcode.com/problems/the-most-recent-three-orders/,1532. The Most Recent Three Orders,70.9%,Medium
+32,https://leetcode.com/problems/find-the-index-of-the-large-integer/,1533. Find the Index of the Large Integer,50.7%,Medium
+33,https://leetcode.com/problems/count-good-triplets/,1534. Count Good Triplets,80.8%,Easy
+34,https://leetcode.com/problems/find-the-winner-of-an-array-game/,1535. Find the Winner of an Array Game,48.8%,Medium
+35,https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/,1536. Minimum Swaps to Arrange a Binary Grid,46.5%,Medium
+36,https://leetcode.com/problems/get-the-maximum-score/,1537. Get the Maximum Score,39.3%,Hard
+37,https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/,1538. Guess the Majority in a Hidden Array,63.1%,Medium
+38,https://leetcode.com/problems/kth-missing-positive-number/,1539. Kth Missing Positive Number,56.0%,Easy
+39,https://leetcode.com/problems/can-convert-string-in-k-moves/,1540. Can Convert String in K Moves,33.2%,Medium
+40,https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/,1541. Minimum Insertions to Balance a Parentheses String,49.9%,Medium
+41,https://leetcode.com/problems/find-longest-awesome-substring/,1542. Find Longest Awesome Substring,41.4%,Hard
+42,https://leetcode.com/problems/fix-product-name-format/,1543. Fix Product Name Format,62.1%,Easy
+43,https://leetcode.com/problems/make-the-string-great/,1544. Make The String Great,63.3%,Easy
+44,https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/,1545. Find Kth Bit in Nth Binary String,58.3%,Medium
+45,https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/,1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target,47.2%,Medium
+46,https://leetcode.com/problems/minimum-cost-to-cut-a-stick/,1547. Minimum Cost to Cut a Stick,57.0%,Hard
+47,https://leetcode.com/problems/the-most-similar-path-in-a-graph/,1548. The Most Similar Path in a Graph,56.8%,Hard
+48,https://leetcode.com/problems/the-most-recent-orders-for-each-product/,1549. The Most Recent Orders for Each Product,67.8%,Medium
+49,https://leetcode.com/problems/three-consecutive-odds/,1550. Three Consecutive Odds,63.6%,Easy
